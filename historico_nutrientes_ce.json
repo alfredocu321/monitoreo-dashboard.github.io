@@ -1,0 +1,6482 @@
+[
+  {
+    "datetime": "2024-11-01 00:00:00",
+    "temperature_C": 19.51,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 249.2,
+    "CE_mS/cm": 2.24,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 01:00:00",
+    "temperature_C": 19.45,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 248.4,
+    "CE_mS/cm": 2.23,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 02:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 247.6,
+    "CE_mS/cm": 2.23,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 03:00:00",
+    "temperature_C": 20.7,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 246.8,
+    "CE_mS/cm": 2.22,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 04:00:00",
+    "temperature_C": 20.46,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 246.0,
+    "CE_mS/cm": 2.21,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 05:00:00",
+    "temperature_C": 19.21,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 245.2,
+    "CE_mS/cm": 2.2,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 06:00:00",
+    "temperature_C": 19.51,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 244.4,
+    "CE_mS/cm": 2.19,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 07:00:00",
+    "temperature_C": 20.47,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 243.6,
+    "CE_mS/cm": 2.19,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 08:00:00",
+    "temperature_C": 19.51,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 242.8,
+    "CE_mS/cm": 2.18,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 09:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 242.0,
+    "CE_mS/cm": 2.17,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 10:00:00",
+    "temperature_C": 20.28,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 241.2,
+    "CE_mS/cm": 2.16,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 11:00:00",
+    "temperature_C": 27.32,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 240.4,
+    "CE_mS/cm": 2.15,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 12:00:00",
+    "temperature_C": 28.07,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 239.6,
+    "CE_mS/cm": 2.15,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 13:00:00",
+    "temperature_C": 27.07,
+    "nitr\u00f3geno_ppm": 143.0,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 238.8,
+    "CE_mS/cm": 2.14,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 14:00:00",
+    "temperature_C": 27.58,
+    "nitr\u00f3geno_ppm": 142.5,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 238.0,
+    "CE_mS/cm": 2.13,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 15:00:00",
+    "temperature_C": 20.16,
+    "nitr\u00f3geno_ppm": 142.0,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 237.2,
+    "CE_mS/cm": 2.12,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 16:00:00",
+    "temperature_C": 19.2,
+    "nitr\u00f3geno_ppm": 141.5,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 236.4,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 17:00:00",
+    "temperature_C": 20.22,
+    "nitr\u00f3geno_ppm": 141.0,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 235.6,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 18:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 140.5,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 234.8,
+    "CE_mS/cm": 2.1,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 19:00:00",
+    "temperature_C": 20.28,
+    "nitr\u00f3geno_ppm": 140.0,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 234.0,
+    "CE_mS/cm": 2.09,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 20:00:00",
+    "temperature_C": 20.11,
+    "nitr\u00f3geno_ppm": 139.5,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 233.2,
+    "CE_mS/cm": 2.08,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 21:00:00",
+    "temperature_C": 20.68,
+    "nitr\u00f3geno_ppm": 139.0,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 232.4,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 22:00:00",
+    "temperature_C": 20.06,
+    "nitr\u00f3geno_ppm": 138.5,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 231.6,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-01 23:00:00",
+    "temperature_C": 19.79,
+    "nitr\u00f3geno_ppm": 138.0,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 230.8,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 00:00:00",
+    "temperature_C": 20.06,
+    "nitr\u00f3geno_ppm": 137.5,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 230.0,
+    "CE_mS/cm": 2.05,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 01:00:00",
+    "temperature_C": 20.27,
+    "nitr\u00f3geno_ppm": 137.0,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 229.2,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 02:00:00",
+    "temperature_C": 20.02,
+    "nitr\u00f3geno_ppm": 136.5,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 228.4,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 03:00:00",
+    "temperature_C": 20.02,
+    "nitr\u00f3geno_ppm": 136.0,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 227.6,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 04:00:00",
+    "temperature_C": 19.65,
+    "nitr\u00f3geno_ppm": 135.5,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 226.8,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 05:00:00",
+    "temperature_C": 19.67,
+    "nitr\u00f3geno_ppm": 135.0,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 226.0,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 06:00:00",
+    "temperature_C": 19.3,
+    "nitr\u00f3geno_ppm": 134.5,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 225.2,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 07:00:00",
+    "temperature_C": 20.87,
+    "nitr\u00f3geno_ppm": 134.0,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 224.4,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 08:00:00",
+    "temperature_C": 19.38,
+    "nitr\u00f3geno_ppm": 133.5,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 223.6,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 09:00:00",
+    "temperature_C": 19.65,
+    "nitr\u00f3geno_ppm": 133.0,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 222.8,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 10:00:00",
+    "temperature_C": 19.64,
+    "nitr\u00f3geno_ppm": 132.5,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 222.0,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 11:00:00",
+    "temperature_C": 28.63,
+    "nitr\u00f3geno_ppm": 132.0,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 221.2,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 12:00:00",
+    "temperature_C": 27.79,
+    "nitr\u00f3geno_ppm": 131.5,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 220.4,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 13:00:00",
+    "temperature_C": 28.87,
+    "nitr\u00f3geno_ppm": 131.0,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 219.6,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 14:00:00",
+    "temperature_C": 27.53,
+    "nitr\u00f3geno_ppm": 130.5,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 218.8,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 15:00:00",
+    "temperature_C": 20.14,
+    "nitr\u00f3geno_ppm": 130.0,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 218.0,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 16:00:00",
+    "temperature_C": 19.58,
+    "nitr\u00f3geno_ppm": 129.5,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 217.2,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 17:00:00",
+    "temperature_C": 21.07,
+    "nitr\u00f3geno_ppm": 129.0,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 216.4,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 18:00:00",
+    "temperature_C": 19.41,
+    "nitr\u00f3geno_ppm": 128.5,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 215.6,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 19:00:00",
+    "temperature_C": 20.15,
+    "nitr\u00f3geno_ppm": 128.0,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 214.8,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 20:00:00",
+    "temperature_C": 20.32,
+    "nitr\u00f3geno_ppm": 127.5,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 214.0,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 21:00:00",
+    "temperature_C": 20.21,
+    "nitr\u00f3geno_ppm": 127.0,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 213.2,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 22:00:00",
+    "temperature_C": 19.91,
+    "nitr\u00f3geno_ppm": 126.5,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 212.4,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-02 23:00:00",
+    "temperature_C": 19.94,
+    "nitr\u00f3geno_ppm": 126.0,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 211.6,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 00:00:00",
+    "temperature_C": 20.02,
+    "nitr\u00f3geno_ppm": 125.5,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 210.8,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 01:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 125.0,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 210.0,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 02:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 124.5,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 209.2,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 03:00:00",
+    "temperature_C": 21.11,
+    "nitr\u00f3geno_ppm": 124.0,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 208.4,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 04:00:00",
+    "temperature_C": 19.72,
+    "nitr\u00f3geno_ppm": 123.5,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 207.6,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 05:00:00",
+    "temperature_C": 19.32,
+    "nitr\u00f3geno_ppm": 123.0,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 206.8,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 06:00:00",
+    "temperature_C": 19.96,
+    "nitr\u00f3geno_ppm": 122.5,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 206.0,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 07:00:00",
+    "temperature_C": 21.29,
+    "nitr\u00f3geno_ppm": 122.0,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 205.2,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 08:00:00",
+    "temperature_C": 19.6,
+    "nitr\u00f3geno_ppm": 121.5,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 204.4,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 09:00:00",
+    "temperature_C": 20.82,
+    "nitr\u00f3geno_ppm": 121.0,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 203.6,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 10:00:00",
+    "temperature_C": 20.84,
+    "nitr\u00f3geno_ppm": 120.5,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 202.8,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 11:00:00",
+    "temperature_C": 27.61,
+    "nitr\u00f3geno_ppm": 120.0,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 202.0,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 12:00:00",
+    "temperature_C": 28.4,
+    "nitr\u00f3geno_ppm": 119.5,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 201.2,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 13:00:00",
+    "temperature_C": 29.14,
+    "nitr\u00f3geno_ppm": 119.0,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 200.4,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 14:00:00",
+    "temperature_C": 27.73,
+    "nitr\u00f3geno_ppm": 118.5,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 199.6,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 15:00:00",
+    "temperature_C": 19.9,
+    "nitr\u00f3geno_ppm": 118.0,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 198.8,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 16:00:00",
+    "temperature_C": 19.71,
+    "nitr\u00f3geno_ppm": 117.5,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 198.0,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 17:00:00",
+    "temperature_C": 19.49,
+    "nitr\u00f3geno_ppm": 117.0,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 197.2,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 18:00:00",
+    "temperature_C": 19.68,
+    "nitr\u00f3geno_ppm": 116.5,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 196.4,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 19:00:00",
+    "temperature_C": 19.39,
+    "nitr\u00f3geno_ppm": 116.0,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 195.6,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 20:00:00",
+    "temperature_C": 20.02,
+    "nitr\u00f3geno_ppm": 115.5,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 194.8,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 21:00:00",
+    "temperature_C": 19.62,
+    "nitr\u00f3geno_ppm": 115.0,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 194.0,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 22:00:00",
+    "temperature_C": 20.12,
+    "nitr\u00f3geno_ppm": 114.5,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 193.2,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-03 23:00:00",
+    "temperature_C": 19.22,
+    "nitr\u00f3geno_ppm": 114.0,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 192.4,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 00:00:00",
+    "temperature_C": 20.17,
+    "nitr\u00f3geno_ppm": 113.5,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 191.6,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 01:00:00",
+    "temperature_C": 20.42,
+    "nitr\u00f3geno_ppm": 113.0,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 190.8,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 02:00:00",
+    "temperature_C": 19.0,
+    "nitr\u00f3geno_ppm": 112.5,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 190.0,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 03:00:00",
+    "temperature_C": 20.19,
+    "nitr\u00f3geno_ppm": 112.0,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 189.2,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 04:00:00",
+    "temperature_C": 20.61,
+    "nitr\u00f3geno_ppm": 111.5,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 188.4,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 05:00:00",
+    "temperature_C": 19.4,
+    "nitr\u00f3geno_ppm": 111.0,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 187.6,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 06:00:00",
+    "temperature_C": 20.84,
+    "nitr\u00f3geno_ppm": 110.5,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 186.8,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 07:00:00",
+    "temperature_C": 20.21,
+    "nitr\u00f3geno_ppm": 110.0,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 186.0,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 08:00:00",
+    "temperature_C": 19.65,
+    "nitr\u00f3geno_ppm": 109.5,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 185.2,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 09:00:00",
+    "temperature_C": 19.97,
+    "nitr\u00f3geno_ppm": 109.0,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 184.4,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 10:00:00",
+    "temperature_C": 20.28,
+    "nitr\u00f3geno_ppm": 108.5,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 183.6,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 11:00:00",
+    "temperature_C": 28.05,
+    "nitr\u00f3geno_ppm": 108.0,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 182.8,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 12:00:00",
+    "temperature_C": 28.38,
+    "nitr\u00f3geno_ppm": 107.5,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 182.0,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 13:00:00",
+    "temperature_C": 27.36,
+    "nitr\u00f3geno_ppm": 107.0,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 181.2,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 14:00:00",
+    "temperature_C": 28.12,
+    "nitr\u00f3geno_ppm": 106.5,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 180.4,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 15:00:00",
+    "temperature_C": 19.29,
+    "nitr\u00f3geno_ppm": 106.0,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 179.6,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 16:00:00",
+    "temperature_C": 19.94,
+    "nitr\u00f3geno_ppm": 105.5,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 178.8,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 17:00:00",
+    "temperature_C": 19.55,
+    "nitr\u00f3geno_ppm": 105.0,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 178.0,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 18:00:00",
+    "temperature_C": 19.63,
+    "nitr\u00f3geno_ppm": 104.5,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 177.2,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 19:00:00",
+    "temperature_C": 20.62,
+    "nitr\u00f3geno_ppm": 104.0,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 176.4,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 20:00:00",
+    "temperature_C": 20.55,
+    "nitr\u00f3geno_ppm": 103.5,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 175.6,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 21:00:00",
+    "temperature_C": 20.3,
+    "nitr\u00f3geno_ppm": 103.0,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 174.8,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 22:00:00",
+    "temperature_C": 19.45,
+    "nitr\u00f3geno_ppm": 102.5,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 174.0,
+    "CE_mS/cm": 1.59,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-04 23:00:00",
+    "temperature_C": 19.84,
+    "nitr\u00f3geno_ppm": 102.0,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 173.2,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 00:00:00",
+    "temperature_C": 20.61,
+    "nitr\u00f3geno_ppm": 101.5,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 172.4,
+    "CE_mS/cm": 1.57,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 01:00:00",
+    "temperature_C": 20.07,
+    "nitr\u00f3geno_ppm": 101.0,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 171.6,
+    "CE_mS/cm": 1.57,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 02:00:00",
+    "temperature_C": 21.16,
+    "nitr\u00f3geno_ppm": 100.5,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 170.8,
+    "CE_mS/cm": 1.56,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 03:00:00",
+    "temperature_C": 20.2,
+    "nitr\u00f3geno_ppm": 100.0,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 170.0,
+    "CE_mS/cm": 1.55,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 04:00:00",
+    "temperature_C": 20.1,
+    "nitr\u00f3geno_ppm": 150.0,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 169.2,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 05:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 168.4,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 06:00:00",
+    "temperature_C": 20.07,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 167.6,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 07:00:00",
+    "temperature_C": 19.92,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 166.8,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 08:00:00",
+    "temperature_C": 20.35,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 166.0,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 09:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 165.2,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 10:00:00",
+    "temperature_C": 19.61,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 164.4,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 11:00:00",
+    "temperature_C": 27.07,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 163.6,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 12:00:00",
+    "temperature_C": 26.71,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 162.8,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 13:00:00",
+    "temperature_C": 28.36,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 162.0,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 14:00:00",
+    "temperature_C": 27.23,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 161.2,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 15:00:00",
+    "temperature_C": 18.92,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 160.4,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 16:00:00",
+    "temperature_C": 20.19,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 159.6,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 17:00:00",
+    "temperature_C": 21.25,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 158.8,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 18:00:00",
+    "temperature_C": 20.0,
+    "nitr\u00f3geno_ppm": 143.0,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 158.0,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 19:00:00",
+    "temperature_C": 20.42,
+    "nitr\u00f3geno_ppm": 142.5,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 157.2,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 20:00:00",
+    "temperature_C": 20.04,
+    "nitr\u00f3geno_ppm": 142.0,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 156.4,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 21:00:00",
+    "temperature_C": 19.95,
+    "nitr\u00f3geno_ppm": 141.5,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 155.6,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 22:00:00",
+    "temperature_C": 20.46,
+    "nitr\u00f3geno_ppm": 141.0,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 154.8,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-05 23:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 140.5,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 154.0,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 00:00:00",
+    "temperature_C": 20.13,
+    "nitr\u00f3geno_ppm": 140.0,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 153.2,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 01:00:00",
+    "temperature_C": 20.16,
+    "nitr\u00f3geno_ppm": 139.5,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 152.4,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 02:00:00",
+    "temperature_C": 19.67,
+    "nitr\u00f3geno_ppm": 139.0,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 151.6,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 03:00:00",
+    "temperature_C": 20.5,
+    "nitr\u00f3geno_ppm": 138.5,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 150.8,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 04:00:00",
+    "temperature_C": 19.91,
+    "nitr\u00f3geno_ppm": 138.0,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 250.0,
+    "CE_mS/cm": 2.1,
+    "reabastecido": true
+  },
+  {
+    "datetime": "2024-11-06 05:00:00",
+    "temperature_C": 19.62,
+    "nitr\u00f3geno_ppm": 137.5,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 249.2,
+    "CE_mS/cm": 2.1,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 06:00:00",
+    "temperature_C": 20.27,
+    "nitr\u00f3geno_ppm": 137.0,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 248.4,
+    "CE_mS/cm": 2.09,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 07:00:00",
+    "temperature_C": 19.55,
+    "nitr\u00f3geno_ppm": 136.5,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 247.6,
+    "CE_mS/cm": 2.08,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 08:00:00",
+    "temperature_C": 20.01,
+    "nitr\u00f3geno_ppm": 136.0,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 246.8,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 09:00:00",
+    "temperature_C": 20.0,
+    "nitr\u00f3geno_ppm": 135.5,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 246.0,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 10:00:00",
+    "temperature_C": 20.54,
+    "nitr\u00f3geno_ppm": 135.0,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 245.2,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 11:00:00",
+    "temperature_C": 28.33,
+    "nitr\u00f3geno_ppm": 134.5,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 244.4,
+    "CE_mS/cm": 2.05,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 12:00:00",
+    "temperature_C": 27.98,
+    "nitr\u00f3geno_ppm": 134.0,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 243.6,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 13:00:00",
+    "temperature_C": 28.57,
+    "nitr\u00f3geno_ppm": 133.5,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 242.8,
+    "CE_mS/cm": 2.13,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 14:00:00",
+    "temperature_C": 28.97,
+    "nitr\u00f3geno_ppm": 133.0,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 242.0,
+    "CE_mS/cm": 2.12,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 15:00:00",
+    "temperature_C": 20.28,
+    "nitr\u00f3geno_ppm": 132.5,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 241.2,
+    "CE_mS/cm": 2.12,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 16:00:00",
+    "temperature_C": 20.01,
+    "nitr\u00f3geno_ppm": 132.0,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 240.4,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 17:00:00",
+    "temperature_C": 19.34,
+    "nitr\u00f3geno_ppm": 131.5,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 239.6,
+    "CE_mS/cm": 2.1,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 18:00:00",
+    "temperature_C": 19.47,
+    "nitr\u00f3geno_ppm": 131.0,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 238.8,
+    "CE_mS/cm": 2.09,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 19:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 130.5,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 238.0,
+    "CE_mS/cm": 2.08,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 20:00:00",
+    "temperature_C": 19.7,
+    "nitr\u00f3geno_ppm": 130.0,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 237.2,
+    "CE_mS/cm": 2.08,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 21:00:00",
+    "temperature_C": 19.91,
+    "nitr\u00f3geno_ppm": 129.5,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 236.4,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 22:00:00",
+    "temperature_C": 20.03,
+    "nitr\u00f3geno_ppm": 129.0,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 235.6,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-06 23:00:00",
+    "temperature_C": 20.26,
+    "nitr\u00f3geno_ppm": 128.5,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 234.8,
+    "CE_mS/cm": 2.05,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 00:00:00",
+    "temperature_C": 19.96,
+    "nitr\u00f3geno_ppm": 128.0,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 234.0,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 01:00:00",
+    "temperature_C": 20.24,
+    "nitr\u00f3geno_ppm": 127.5,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 233.2,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 02:00:00",
+    "temperature_C": 20.03,
+    "nitr\u00f3geno_ppm": 127.0,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 232.4,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 03:00:00",
+    "temperature_C": 19.01,
+    "nitr\u00f3geno_ppm": 126.5,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 231.6,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 04:00:00",
+    "temperature_C": 19.53,
+    "nitr\u00f3geno_ppm": 126.0,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 230.8,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 05:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 125.5,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 230.0,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 06:00:00",
+    "temperature_C": 19.4,
+    "nitr\u00f3geno_ppm": 125.0,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 229.2,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 07:00:00",
+    "temperature_C": 20.3,
+    "nitr\u00f3geno_ppm": 124.5,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 228.4,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 08:00:00",
+    "temperature_C": 20.77,
+    "nitr\u00f3geno_ppm": 124.0,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 227.6,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 09:00:00",
+    "temperature_C": 20.61,
+    "nitr\u00f3geno_ppm": 123.5,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 226.8,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 10:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 123.0,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 226.0,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 11:00:00",
+    "temperature_C": 29.04,
+    "nitr\u00f3geno_ppm": 122.5,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 225.2,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 12:00:00",
+    "temperature_C": 28.1,
+    "nitr\u00f3geno_ppm": 122.0,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 224.4,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 13:00:00",
+    "temperature_C": 27.76,
+    "nitr\u00f3geno_ppm": 121.5,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 223.6,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 14:00:00",
+    "temperature_C": 27.57,
+    "nitr\u00f3geno_ppm": 121.0,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 222.8,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 15:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 120.5,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 222.0,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 16:00:00",
+    "temperature_C": 19.81,
+    "nitr\u00f3geno_ppm": 120.0,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 221.2,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 17:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 119.5,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 220.4,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 18:00:00",
+    "temperature_C": 20.08,
+    "nitr\u00f3geno_ppm": 119.0,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 219.6,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 19:00:00",
+    "temperature_C": 20.0,
+    "nitr\u00f3geno_ppm": 118.5,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 218.8,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 20:00:00",
+    "temperature_C": 20.22,
+    "nitr\u00f3geno_ppm": 118.0,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 218.0,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 21:00:00",
+    "temperature_C": 20.6,
+    "nitr\u00f3geno_ppm": 117.5,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 217.2,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 22:00:00",
+    "temperature_C": 20.47,
+    "nitr\u00f3geno_ppm": 117.0,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 216.4,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-07 23:00:00",
+    "temperature_C": 19.26,
+    "nitr\u00f3geno_ppm": 116.5,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 215.6,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 00:00:00",
+    "temperature_C": 18.72,
+    "nitr\u00f3geno_ppm": 116.0,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 214.8,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 01:00:00",
+    "temperature_C": 20.47,
+    "nitr\u00f3geno_ppm": 115.5,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 214.0,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 02:00:00",
+    "temperature_C": 19.32,
+    "nitr\u00f3geno_ppm": 115.0,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 213.2,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 03:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 114.5,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 212.4,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 04:00:00",
+    "temperature_C": 19.41,
+    "nitr\u00f3geno_ppm": 114.0,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 211.6,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 05:00:00",
+    "temperature_C": 19.1,
+    "nitr\u00f3geno_ppm": 113.5,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 210.8,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 06:00:00",
+    "temperature_C": 20.27,
+    "nitr\u00f3geno_ppm": 113.0,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 210.0,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 07:00:00",
+    "temperature_C": 20.38,
+    "nitr\u00f3geno_ppm": 112.5,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 209.2,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 08:00:00",
+    "temperature_C": 19.71,
+    "nitr\u00f3geno_ppm": 112.0,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 208.4,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 09:00:00",
+    "temperature_C": 18.7,
+    "nitr\u00f3geno_ppm": 111.5,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 207.6,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 10:00:00",
+    "temperature_C": 19.73,
+    "nitr\u00f3geno_ppm": 111.0,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 206.8,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 11:00:00",
+    "temperature_C": 28.27,
+    "nitr\u00f3geno_ppm": 110.5,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 206.0,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 12:00:00",
+    "temperature_C": 26.96,
+    "nitr\u00f3geno_ppm": 110.0,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 205.2,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 13:00:00",
+    "temperature_C": 28.13,
+    "nitr\u00f3geno_ppm": 109.5,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 204.4,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 14:00:00",
+    "temperature_C": 27.99,
+    "nitr\u00f3geno_ppm": 109.0,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 203.6,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 15:00:00",
+    "temperature_C": 20.29,
+    "nitr\u00f3geno_ppm": 108.5,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 202.8,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 16:00:00",
+    "temperature_C": 20.06,
+    "nitr\u00f3geno_ppm": 108.0,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 202.0,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 17:00:00",
+    "temperature_C": 19.51,
+    "nitr\u00f3geno_ppm": 107.5,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 201.2,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 18:00:00",
+    "temperature_C": 20.6,
+    "nitr\u00f3geno_ppm": 107.0,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 200.4,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 19:00:00",
+    "temperature_C": 19.92,
+    "nitr\u00f3geno_ppm": 106.5,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 199.6,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 20:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 106.0,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 198.8,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 21:00:00",
+    "temperature_C": 19.53,
+    "nitr\u00f3geno_ppm": 105.5,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 198.0,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 22:00:00",
+    "temperature_C": 19.78,
+    "nitr\u00f3geno_ppm": 105.0,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 197.2,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-08 23:00:00",
+    "temperature_C": 19.56,
+    "nitr\u00f3geno_ppm": 104.5,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 196.4,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 00:00:00",
+    "temperature_C": 19.91,
+    "nitr\u00f3geno_ppm": 104.0,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 195.6,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 01:00:00",
+    "temperature_C": 20.86,
+    "nitr\u00f3geno_ppm": 103.5,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 194.8,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 02:00:00",
+    "temperature_C": 19.31,
+    "nitr\u00f3geno_ppm": 103.0,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 194.0,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 03:00:00",
+    "temperature_C": 19.19,
+    "nitr\u00f3geno_ppm": 102.5,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 193.2,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 04:00:00",
+    "temperature_C": 20.74,
+    "nitr\u00f3geno_ppm": 102.0,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 192.4,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 05:00:00",
+    "temperature_C": 19.9,
+    "nitr\u00f3geno_ppm": 101.5,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 191.6,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 06:00:00",
+    "temperature_C": 19.67,
+    "nitr\u00f3geno_ppm": 101.0,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 190.8,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 07:00:00",
+    "temperature_C": 20.52,
+    "nitr\u00f3geno_ppm": 100.5,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 190.0,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 08:00:00",
+    "temperature_C": 19.7,
+    "nitr\u00f3geno_ppm": 100.0,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 189.2,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 09:00:00",
+    "temperature_C": 20.91,
+    "nitr\u00f3geno_ppm": 150.0,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 188.4,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 10:00:00",
+    "temperature_C": 20.34,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 187.6,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 11:00:00",
+    "temperature_C": 27.66,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 186.8,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 12:00:00",
+    "temperature_C": 29.51,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 186.0,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 13:00:00",
+    "temperature_C": 27.58,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 185.2,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 14:00:00",
+    "temperature_C": 28.52,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 184.4,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 15:00:00",
+    "temperature_C": 20.15,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 183.6,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 16:00:00",
+    "temperature_C": 20.65,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 182.8,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 17:00:00",
+    "temperature_C": 20.78,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 182.0,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 18:00:00",
+    "temperature_C": 20.02,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 181.2,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 19:00:00",
+    "temperature_C": 19.62,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 180.4,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 20:00:00",
+    "temperature_C": 20.23,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 179.6,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 21:00:00",
+    "temperature_C": 19.66,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 178.8,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 22:00:00",
+    "temperature_C": 21.01,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 178.0,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-09 23:00:00",
+    "temperature_C": 20.07,
+    "nitr\u00f3geno_ppm": 143.0,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 177.2,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 00:00:00",
+    "temperature_C": 19.82,
+    "nitr\u00f3geno_ppm": 142.5,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 176.4,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 01:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 142.0,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 175.6,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 02:00:00",
+    "temperature_C": 19.33,
+    "nitr\u00f3geno_ppm": 141.5,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 174.8,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 03:00:00",
+    "temperature_C": 19.51,
+    "nitr\u00f3geno_ppm": 141.0,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 174.0,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 04:00:00",
+    "temperature_C": 20.6,
+    "nitr\u00f3geno_ppm": 140.5,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 173.2,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 05:00:00",
+    "temperature_C": 19.67,
+    "nitr\u00f3geno_ppm": 140.0,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 172.4,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 06:00:00",
+    "temperature_C": 19.48,
+    "nitr\u00f3geno_ppm": 139.5,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 171.6,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 07:00:00",
+    "temperature_C": 20.27,
+    "nitr\u00f3geno_ppm": 139.0,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 170.8,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 08:00:00",
+    "temperature_C": 20.59,
+    "nitr\u00f3geno_ppm": 138.5,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 170.0,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 09:00:00",
+    "temperature_C": 20.36,
+    "nitr\u00f3geno_ppm": 138.0,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 169.2,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 10:00:00",
+    "temperature_C": 20.5,
+    "nitr\u00f3geno_ppm": 137.5,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 168.4,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 11:00:00",
+    "temperature_C": 27.47,
+    "nitr\u00f3geno_ppm": 137.0,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 167.6,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 12:00:00",
+    "temperature_C": 27.0,
+    "nitr\u00f3geno_ppm": 136.5,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 166.8,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 13:00:00",
+    "temperature_C": 29.05,
+    "nitr\u00f3geno_ppm": 136.0,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 166.0,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 14:00:00",
+    "temperature_C": 27.77,
+    "nitr\u00f3geno_ppm": 135.5,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 165.2,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 15:00:00",
+    "temperature_C": 19.87,
+    "nitr\u00f3geno_ppm": 135.0,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 164.4,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 16:00:00",
+    "temperature_C": 20.66,
+    "nitr\u00f3geno_ppm": 134.5,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 163.6,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 17:00:00",
+    "temperature_C": 20.28,
+    "nitr\u00f3geno_ppm": 134.0,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 162.8,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 18:00:00",
+    "temperature_C": 20.23,
+    "nitr\u00f3geno_ppm": 133.5,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 162.0,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 19:00:00",
+    "temperature_C": 21.08,
+    "nitr\u00f3geno_ppm": 133.0,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 161.2,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 20:00:00",
+    "temperature_C": 19.68,
+    "nitr\u00f3geno_ppm": 132.5,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 160.4,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 21:00:00",
+    "temperature_C": 20.46,
+    "nitr\u00f3geno_ppm": 132.0,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 159.6,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 22:00:00",
+    "temperature_C": 20.03,
+    "nitr\u00f3geno_ppm": 131.5,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 158.8,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-10 23:00:00",
+    "temperature_C": 20.13,
+    "nitr\u00f3geno_ppm": 131.0,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 158.0,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 00:00:00",
+    "temperature_C": 20.76,
+    "nitr\u00f3geno_ppm": 130.5,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 157.2,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 01:00:00",
+    "temperature_C": 20.25,
+    "nitr\u00f3geno_ppm": 130.0,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 156.4,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 02:00:00",
+    "temperature_C": 20.27,
+    "nitr\u00f3geno_ppm": 129.5,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 155.6,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 03:00:00",
+    "temperature_C": 20.54,
+    "nitr\u00f3geno_ppm": 129.0,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 154.8,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 04:00:00",
+    "temperature_C": 19.82,
+    "nitr\u00f3geno_ppm": 128.5,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 154.0,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 05:00:00",
+    "temperature_C": 19.58,
+    "nitr\u00f3geno_ppm": 128.0,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 153.2,
+    "CE_mS/cm": 1.59,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 06:00:00",
+    "temperature_C": 19.48,
+    "nitr\u00f3geno_ppm": 127.5,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 152.4,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 07:00:00",
+    "temperature_C": 19.02,
+    "nitr\u00f3geno_ppm": 127.0,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 151.6,
+    "CE_mS/cm": 1.57,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 08:00:00",
+    "temperature_C": 21.03,
+    "nitr\u00f3geno_ppm": 126.5,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 150.8,
+    "CE_mS/cm": 1.56,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 09:00:00",
+    "temperature_C": 19.45,
+    "nitr\u00f3geno_ppm": 126.0,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 250.0,
+    "CE_mS/cm": 2.06,
+    "reabastecido": true
+  },
+  {
+    "datetime": "2024-11-11 10:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 125.5,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 249.2,
+    "CE_mS/cm": 2.05,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 11:00:00",
+    "temperature_C": 27.81,
+    "nitr\u00f3geno_ppm": 125.0,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 248.4,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 12:00:00",
+    "temperature_C": 28.22,
+    "nitr\u00f3geno_ppm": 124.5,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 247.6,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 13:00:00",
+    "temperature_C": 28.57,
+    "nitr\u00f3geno_ppm": 124.0,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 246.8,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 14:00:00",
+    "temperature_C": 28.6,
+    "nitr\u00f3geno_ppm": 123.5,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 246.0,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 15:00:00",
+    "temperature_C": 19.71,
+    "nitr\u00f3geno_ppm": 123.0,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 245.2,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 16:00:00",
+    "temperature_C": 19.92,
+    "nitr\u00f3geno_ppm": 122.5,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 244.4,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 17:00:00",
+    "temperature_C": 20.14,
+    "nitr\u00f3geno_ppm": 122.0,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 243.6,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 18:00:00",
+    "temperature_C": 19.88,
+    "nitr\u00f3geno_ppm": 121.5,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 242.8,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 19:00:00",
+    "temperature_C": 20.8,
+    "nitr\u00f3geno_ppm": 121.0,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 242.0,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 20:00:00",
+    "temperature_C": 20.25,
+    "nitr\u00f3geno_ppm": 120.5,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 241.2,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 21:00:00",
+    "temperature_C": 20.37,
+    "nitr\u00f3geno_ppm": 120.0,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 240.4,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 22:00:00",
+    "temperature_C": 20.33,
+    "nitr\u00f3geno_ppm": 119.5,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 239.6,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-11 23:00:00",
+    "temperature_C": 20.59,
+    "nitr\u00f3geno_ppm": 119.0,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 238.8,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 00:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 118.5,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 238.0,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 01:00:00",
+    "temperature_C": 19.35,
+    "nitr\u00f3geno_ppm": 118.0,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 237.2,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 02:00:00",
+    "temperature_C": 20.2,
+    "nitr\u00f3geno_ppm": 117.5,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 236.4,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 03:00:00",
+    "temperature_C": 19.67,
+    "nitr\u00f3geno_ppm": 117.0,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 235.6,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 04:00:00",
+    "temperature_C": 19.74,
+    "nitr\u00f3geno_ppm": 116.5,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 234.8,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 05:00:00",
+    "temperature_C": 20.29,
+    "nitr\u00f3geno_ppm": 116.0,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 234.0,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 06:00:00",
+    "temperature_C": 20.62,
+    "nitr\u00f3geno_ppm": 115.5,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 233.2,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 07:00:00",
+    "temperature_C": 20.01,
+    "nitr\u00f3geno_ppm": 115.0,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 232.4,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 08:00:00",
+    "temperature_C": 20.15,
+    "nitr\u00f3geno_ppm": 114.5,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 231.6,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 09:00:00",
+    "temperature_C": 20.85,
+    "nitr\u00f3geno_ppm": 114.0,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 230.8,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 10:00:00",
+    "temperature_C": 20.12,
+    "nitr\u00f3geno_ppm": 113.5,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 230.0,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 11:00:00",
+    "temperature_C": 29.82,
+    "nitr\u00f3geno_ppm": 113.0,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 229.2,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 12:00:00",
+    "temperature_C": 28.4,
+    "nitr\u00f3geno_ppm": 112.5,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 228.4,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 13:00:00",
+    "temperature_C": 26.77,
+    "nitr\u00f3geno_ppm": 112.0,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 227.6,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 14:00:00",
+    "temperature_C": 28.53,
+    "nitr\u00f3geno_ppm": 111.5,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 226.8,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 15:00:00",
+    "temperature_C": 20.19,
+    "nitr\u00f3geno_ppm": 111.0,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 226.0,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 16:00:00",
+    "temperature_C": 20.64,
+    "nitr\u00f3geno_ppm": 110.5,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 225.2,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 17:00:00",
+    "temperature_C": 20.34,
+    "nitr\u00f3geno_ppm": 110.0,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 224.4,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 18:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 109.5,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 223.6,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 19:00:00",
+    "temperature_C": 19.39,
+    "nitr\u00f3geno_ppm": 109.0,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 222.8,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 20:00:00",
+    "temperature_C": 19.9,
+    "nitr\u00f3geno_ppm": 108.5,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 222.0,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 21:00:00",
+    "temperature_C": 19.57,
+    "nitr\u00f3geno_ppm": 108.0,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 221.2,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 22:00:00",
+    "temperature_C": 19.71,
+    "nitr\u00f3geno_ppm": 107.5,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 220.4,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-12 23:00:00",
+    "temperature_C": 20.29,
+    "nitr\u00f3geno_ppm": 107.0,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 219.6,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 00:00:00",
+    "temperature_C": 20.83,
+    "nitr\u00f3geno_ppm": 106.5,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 218.8,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 01:00:00",
+    "temperature_C": 20.2,
+    "nitr\u00f3geno_ppm": 106.0,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 218.0,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 02:00:00",
+    "temperature_C": 19.4,
+    "nitr\u00f3geno_ppm": 105.5,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 217.2,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 03:00:00",
+    "temperature_C": 20.22,
+    "nitr\u00f3geno_ppm": 105.0,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 216.4,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 04:00:00",
+    "temperature_C": 20.6,
+    "nitr\u00f3geno_ppm": 104.5,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 215.6,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 05:00:00",
+    "temperature_C": 19.7,
+    "nitr\u00f3geno_ppm": 104.0,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 214.8,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 06:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 103.5,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 214.0,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 07:00:00",
+    "temperature_C": 20.01,
+    "nitr\u00f3geno_ppm": 103.0,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 213.2,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 08:00:00",
+    "temperature_C": 19.61,
+    "nitr\u00f3geno_ppm": 102.5,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 212.4,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 09:00:00",
+    "temperature_C": 20.32,
+    "nitr\u00f3geno_ppm": 102.0,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 211.6,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 10:00:00",
+    "temperature_C": 19.94,
+    "nitr\u00f3geno_ppm": 101.5,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 210.8,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 11:00:00",
+    "temperature_C": 28.29,
+    "nitr\u00f3geno_ppm": 101.0,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 210.0,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 12:00:00",
+    "temperature_C": 27.38,
+    "nitr\u00f3geno_ppm": 100.5,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 209.2,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 13:00:00",
+    "temperature_C": 27.69,
+    "nitr\u00f3geno_ppm": 100.0,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 208.4,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 14:00:00",
+    "temperature_C": 28.51,
+    "nitr\u00f3geno_ppm": 150.0,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 207.6,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 15:00:00",
+    "temperature_C": 19.81,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 206.8,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 16:00:00",
+    "temperature_C": 20.86,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 206.0,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 17:00:00",
+    "temperature_C": 19.8,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 205.2,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 18:00:00",
+    "temperature_C": 20.11,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 204.4,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 19:00:00",
+    "temperature_C": 20.47,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 203.6,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 20:00:00",
+    "temperature_C": 19.29,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 202.8,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 21:00:00",
+    "temperature_C": 19.12,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 202.0,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 22:00:00",
+    "temperature_C": 19.24,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 201.2,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-13 23:00:00",
+    "temperature_C": 20.63,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 200.4,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 00:00:00",
+    "temperature_C": 19.72,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 199.6,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 01:00:00",
+    "temperature_C": 21.28,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 198.8,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 02:00:00",
+    "temperature_C": 19.72,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 198.0,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 03:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 197.2,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 04:00:00",
+    "temperature_C": 20.77,
+    "nitr\u00f3geno_ppm": 143.0,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 196.4,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 05:00:00",
+    "temperature_C": 21.0,
+    "nitr\u00f3geno_ppm": 142.5,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 195.6,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 06:00:00",
+    "temperature_C": 21.03,
+    "nitr\u00f3geno_ppm": 142.0,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 194.8,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 07:00:00",
+    "temperature_C": 20.6,
+    "nitr\u00f3geno_ppm": 141.5,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 194.0,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 08:00:00",
+    "temperature_C": 20.51,
+    "nitr\u00f3geno_ppm": 141.0,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 193.2,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 09:00:00",
+    "temperature_C": 20.3,
+    "nitr\u00f3geno_ppm": 140.5,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 192.4,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 10:00:00",
+    "temperature_C": 20.39,
+    "nitr\u00f3geno_ppm": 140.0,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 191.6,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 11:00:00",
+    "temperature_C": 27.61,
+    "nitr\u00f3geno_ppm": 139.5,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 190.8,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 12:00:00",
+    "temperature_C": 27.43,
+    "nitr\u00f3geno_ppm": 139.0,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 190.0,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 13:00:00",
+    "temperature_C": 28.0,
+    "nitr\u00f3geno_ppm": 138.5,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 189.2,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 14:00:00",
+    "temperature_C": 27.88,
+    "nitr\u00f3geno_ppm": 138.0,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 188.4,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 15:00:00",
+    "temperature_C": 19.77,
+    "nitr\u00f3geno_ppm": 137.5,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 187.6,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 16:00:00",
+    "temperature_C": 20.35,
+    "nitr\u00f3geno_ppm": 137.0,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 186.8,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 17:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 136.5,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 186.0,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 18:00:00",
+    "temperature_C": 20.04,
+    "nitr\u00f3geno_ppm": 136.0,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 185.2,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 19:00:00",
+    "temperature_C": 20.74,
+    "nitr\u00f3geno_ppm": 135.5,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 184.4,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 20:00:00",
+    "temperature_C": 19.43,
+    "nitr\u00f3geno_ppm": 135.0,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 183.6,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 21:00:00",
+    "temperature_C": 19.9,
+    "nitr\u00f3geno_ppm": 134.5,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 182.8,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 22:00:00",
+    "temperature_C": 19.64,
+    "nitr\u00f3geno_ppm": 134.0,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 182.0,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-14 23:00:00",
+    "temperature_C": 19.07,
+    "nitr\u00f3geno_ppm": 133.5,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 181.2,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 00:00:00",
+    "temperature_C": 19.96,
+    "nitr\u00f3geno_ppm": 133.0,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 180.4,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 01:00:00",
+    "temperature_C": 19.94,
+    "nitr\u00f3geno_ppm": 132.5,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 179.6,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 02:00:00",
+    "temperature_C": 20.76,
+    "nitr\u00f3geno_ppm": 132.0,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 178.8,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 03:00:00",
+    "temperature_C": 20.32,
+    "nitr\u00f3geno_ppm": 131.5,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 178.0,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 04:00:00",
+    "temperature_C": 19.49,
+    "nitr\u00f3geno_ppm": 131.0,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 177.2,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 05:00:00",
+    "temperature_C": 20.93,
+    "nitr\u00f3geno_ppm": 130.5,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 176.4,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 06:00:00",
+    "temperature_C": 20.61,
+    "nitr\u00f3geno_ppm": 130.0,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 175.6,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 07:00:00",
+    "temperature_C": 20.29,
+    "nitr\u00f3geno_ppm": 129.5,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 174.8,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 08:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 129.0,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 174.0,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 09:00:00",
+    "temperature_C": 19.52,
+    "nitr\u00f3geno_ppm": 128.5,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 173.2,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 10:00:00",
+    "temperature_C": 19.81,
+    "nitr\u00f3geno_ppm": 128.0,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 172.4,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 11:00:00",
+    "temperature_C": 28.76,
+    "nitr\u00f3geno_ppm": 127.5,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 171.6,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 12:00:00",
+    "temperature_C": 29.32,
+    "nitr\u00f3geno_ppm": 127.0,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 170.8,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 13:00:00",
+    "temperature_C": 29.08,
+    "nitr\u00f3geno_ppm": 126.5,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 170.0,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 14:00:00",
+    "temperature_C": 27.66,
+    "nitr\u00f3geno_ppm": 126.0,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 169.2,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 15:00:00",
+    "temperature_C": 19.44,
+    "nitr\u00f3geno_ppm": 125.5,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 168.4,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 16:00:00",
+    "temperature_C": 20.07,
+    "nitr\u00f3geno_ppm": 125.0,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 167.6,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 17:00:00",
+    "temperature_C": 19.12,
+    "nitr\u00f3geno_ppm": 124.5,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 166.8,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 18:00:00",
+    "temperature_C": 20.16,
+    "nitr\u00f3geno_ppm": 124.0,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 166.0,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 19:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 123.5,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 165.2,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 20:00:00",
+    "temperature_C": 19.77,
+    "nitr\u00f3geno_ppm": 123.0,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 164.4,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 21:00:00",
+    "temperature_C": 19.2,
+    "nitr\u00f3geno_ppm": 122.5,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 163.6,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 22:00:00",
+    "temperature_C": 20.26,
+    "nitr\u00f3geno_ppm": 122.0,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 162.8,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-15 23:00:00",
+    "temperature_C": 19.73,
+    "nitr\u00f3geno_ppm": 121.5,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 162.0,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 00:00:00",
+    "temperature_C": 19.42,
+    "nitr\u00f3geno_ppm": 121.0,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 161.2,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 01:00:00",
+    "temperature_C": 18.56,
+    "nitr\u00f3geno_ppm": 120.5,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 160.4,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 02:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 120.0,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 159.6,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 03:00:00",
+    "temperature_C": 20.89,
+    "nitr\u00f3geno_ppm": 119.5,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 158.8,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 04:00:00",
+    "temperature_C": 20.83,
+    "nitr\u00f3geno_ppm": 119.0,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 158.0,
+    "CE_mS/cm": 1.59,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 05:00:00",
+    "temperature_C": 19.77,
+    "nitr\u00f3geno_ppm": 118.5,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 157.2,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 06:00:00",
+    "temperature_C": 19.7,
+    "nitr\u00f3geno_ppm": 118.0,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 156.4,
+    "CE_mS/cm": 1.57,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 07:00:00",
+    "temperature_C": 20.23,
+    "nitr\u00f3geno_ppm": 117.5,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 155.6,
+    "CE_mS/cm": 1.57,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 08:00:00",
+    "temperature_C": 19.5,
+    "nitr\u00f3geno_ppm": 117.0,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 154.8,
+    "CE_mS/cm": 1.56,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 09:00:00",
+    "temperature_C": 20.15,
+    "nitr\u00f3geno_ppm": 116.5,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 154.0,
+    "CE_mS/cm": 1.55,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 10:00:00",
+    "temperature_C": 20.38,
+    "nitr\u00f3geno_ppm": 116.0,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 153.2,
+    "CE_mS/cm": 1.54,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 11:00:00",
+    "temperature_C": 28.86,
+    "nitr\u00f3geno_ppm": 115.5,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 152.4,
+    "CE_mS/cm": 1.53,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 12:00:00",
+    "temperature_C": 27.93,
+    "nitr\u00f3geno_ppm": 115.0,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 151.6,
+    "CE_mS/cm": 1.53,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 13:00:00",
+    "temperature_C": 27.86,
+    "nitr\u00f3geno_ppm": 114.5,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 150.8,
+    "CE_mS/cm": 1.52,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 14:00:00",
+    "temperature_C": 27.39,
+    "nitr\u00f3geno_ppm": 114.0,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 250.0,
+    "CE_mS/cm": 2.01,
+    "reabastecido": true
+  },
+  {
+    "datetime": "2024-11-16 15:00:00",
+    "temperature_C": 19.59,
+    "nitr\u00f3geno_ppm": 113.5,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 249.2,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 16:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 113.0,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 248.4,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 17:00:00",
+    "temperature_C": 20.18,
+    "nitr\u00f3geno_ppm": 112.5,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 247.6,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 18:00:00",
+    "temperature_C": 20.46,
+    "nitr\u00f3geno_ppm": 112.0,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 246.8,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 19:00:00",
+    "temperature_C": 19.6,
+    "nitr\u00f3geno_ppm": 111.5,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 246.0,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 20:00:00",
+    "temperature_C": 20.75,
+    "nitr\u00f3geno_ppm": 111.0,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 245.2,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 21:00:00",
+    "temperature_C": 19.86,
+    "nitr\u00f3geno_ppm": 110.5,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 244.4,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 22:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 110.0,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 243.6,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-16 23:00:00",
+    "temperature_C": 19.63,
+    "nitr\u00f3geno_ppm": 109.5,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 242.8,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 00:00:00",
+    "temperature_C": 18.79,
+    "nitr\u00f3geno_ppm": 109.0,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 242.0,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 01:00:00",
+    "temperature_C": 20.44,
+    "nitr\u00f3geno_ppm": 108.5,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 241.2,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 02:00:00",
+    "temperature_C": 20.37,
+    "nitr\u00f3geno_ppm": 108.0,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 240.4,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 03:00:00",
+    "temperature_C": 19.86,
+    "nitr\u00f3geno_ppm": 107.5,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 239.6,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 04:00:00",
+    "temperature_C": 20.03,
+    "nitr\u00f3geno_ppm": 107.0,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 238.8,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 05:00:00",
+    "temperature_C": 20.26,
+    "nitr\u00f3geno_ppm": 106.5,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 238.0,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 06:00:00",
+    "temperature_C": 19.22,
+    "nitr\u00f3geno_ppm": 106.0,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 237.2,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 07:00:00",
+    "temperature_C": 19.74,
+    "nitr\u00f3geno_ppm": 105.5,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 236.4,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 08:00:00",
+    "temperature_C": 20.4,
+    "nitr\u00f3geno_ppm": 105.0,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 235.6,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 09:00:00",
+    "temperature_C": 19.37,
+    "nitr\u00f3geno_ppm": 104.5,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 234.8,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 10:00:00",
+    "temperature_C": 20.15,
+    "nitr\u00f3geno_ppm": 104.0,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 234.0,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 11:00:00",
+    "temperature_C": 27.05,
+    "nitr\u00f3geno_ppm": 103.5,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 233.2,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 12:00:00",
+    "temperature_C": 28.33,
+    "nitr\u00f3geno_ppm": 103.0,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 232.4,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 13:00:00",
+    "temperature_C": 27.98,
+    "nitr\u00f3geno_ppm": 102.5,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 231.6,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 14:00:00",
+    "temperature_C": 26.87,
+    "nitr\u00f3geno_ppm": 102.0,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 230.8,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 15:00:00",
+    "temperature_C": 20.58,
+    "nitr\u00f3geno_ppm": 101.5,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 230.0,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 16:00:00",
+    "temperature_C": 19.63,
+    "nitr\u00f3geno_ppm": 101.0,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 229.2,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 17:00:00",
+    "temperature_C": 19.59,
+    "nitr\u00f3geno_ppm": 100.5,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 228.4,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 18:00:00",
+    "temperature_C": 20.1,
+    "nitr\u00f3geno_ppm": 100.0,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 227.6,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 19:00:00",
+    "temperature_C": 20.57,
+    "nitr\u00f3geno_ppm": 150.0,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 226.8,
+    "CE_mS/cm": 2.13,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 20:00:00",
+    "temperature_C": 19.49,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 226.0,
+    "CE_mS/cm": 2.12,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 21:00:00",
+    "temperature_C": 20.03,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 225.2,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 22:00:00",
+    "temperature_C": 20.21,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 224.4,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-17 23:00:00",
+    "temperature_C": 20.35,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 223.6,
+    "CE_mS/cm": 2.1,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 00:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 222.8,
+    "CE_mS/cm": 2.09,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 01:00:00",
+    "temperature_C": 19.82,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 222.0,
+    "CE_mS/cm": 2.08,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 02:00:00",
+    "temperature_C": 19.59,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 221.2,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 03:00:00",
+    "temperature_C": 20.04,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 220.4,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 04:00:00",
+    "temperature_C": 19.46,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 219.6,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 05:00:00",
+    "temperature_C": 18.54,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 218.8,
+    "CE_mS/cm": 2.05,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 06:00:00",
+    "temperature_C": 20.22,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 218.0,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 07:00:00",
+    "temperature_C": 20.45,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 217.2,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 08:00:00",
+    "temperature_C": 18.82,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 216.4,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 09:00:00",
+    "temperature_C": 19.5,
+    "nitr\u00f3geno_ppm": 143.0,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 215.6,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 10:00:00",
+    "temperature_C": 20.31,
+    "nitr\u00f3geno_ppm": 142.5,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 214.8,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 11:00:00",
+    "temperature_C": 29.44,
+    "nitr\u00f3geno_ppm": 142.0,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 214.0,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 12:00:00",
+    "temperature_C": 28.01,
+    "nitr\u00f3geno_ppm": 141.5,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 213.2,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 13:00:00",
+    "temperature_C": 27.49,
+    "nitr\u00f3geno_ppm": 141.0,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 212.4,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 14:00:00",
+    "temperature_C": 27.87,
+    "nitr\u00f3geno_ppm": 140.5,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 211.6,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 15:00:00",
+    "temperature_C": 20.69,
+    "nitr\u00f3geno_ppm": 140.0,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 210.8,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 16:00:00",
+    "temperature_C": 19.68,
+    "nitr\u00f3geno_ppm": 139.5,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 210.0,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 17:00:00",
+    "temperature_C": 19.6,
+    "nitr\u00f3geno_ppm": 139.0,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 209.2,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 18:00:00",
+    "temperature_C": 19.76,
+    "nitr\u00f3geno_ppm": 138.5,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 208.4,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 19:00:00",
+    "temperature_C": 19.52,
+    "nitr\u00f3geno_ppm": 138.0,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 207.6,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 20:00:00",
+    "temperature_C": 20.06,
+    "nitr\u00f3geno_ppm": 137.5,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 206.8,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 21:00:00",
+    "temperature_C": 20.81,
+    "nitr\u00f3geno_ppm": 137.0,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 206.0,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 22:00:00",
+    "temperature_C": 20.16,
+    "nitr\u00f3geno_ppm": 136.5,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 205.2,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-18 23:00:00",
+    "temperature_C": 19.87,
+    "nitr\u00f3geno_ppm": 136.0,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 204.4,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 00:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 135.5,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 203.6,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 01:00:00",
+    "temperature_C": 19.22,
+    "nitr\u00f3geno_ppm": 135.0,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 202.8,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 02:00:00",
+    "temperature_C": 20.44,
+    "nitr\u00f3geno_ppm": 134.5,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 202.0,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 03:00:00",
+    "temperature_C": 19.96,
+    "nitr\u00f3geno_ppm": 134.0,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 201.2,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 04:00:00",
+    "temperature_C": 19.91,
+    "nitr\u00f3geno_ppm": 133.5,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 200.4,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 05:00:00",
+    "temperature_C": 21.6,
+    "nitr\u00f3geno_ppm": 133.0,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 199.6,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 06:00:00",
+    "temperature_C": 20.15,
+    "nitr\u00f3geno_ppm": 132.5,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 198.8,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 07:00:00",
+    "temperature_C": 19.62,
+    "nitr\u00f3geno_ppm": 132.0,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 198.0,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 08:00:00",
+    "temperature_C": 19.79,
+    "nitr\u00f3geno_ppm": 131.5,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 197.2,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 09:00:00",
+    "temperature_C": 20.57,
+    "nitr\u00f3geno_ppm": 131.0,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 196.4,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 10:00:00",
+    "temperature_C": 20.06,
+    "nitr\u00f3geno_ppm": 130.5,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 195.6,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 11:00:00",
+    "temperature_C": 26.99,
+    "nitr\u00f3geno_ppm": 130.0,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 194.8,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 12:00:00",
+    "temperature_C": 28.64,
+    "nitr\u00f3geno_ppm": 129.5,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 194.0,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 13:00:00",
+    "temperature_C": 27.53,
+    "nitr\u00f3geno_ppm": 129.0,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 193.2,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 14:00:00",
+    "temperature_C": 29.31,
+    "nitr\u00f3geno_ppm": 128.5,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 192.4,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 15:00:00",
+    "temperature_C": 20.54,
+    "nitr\u00f3geno_ppm": 128.0,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 191.6,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 16:00:00",
+    "temperature_C": 19.78,
+    "nitr\u00f3geno_ppm": 127.5,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 190.8,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 17:00:00",
+    "temperature_C": 20.64,
+    "nitr\u00f3geno_ppm": 127.0,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 190.0,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 18:00:00",
+    "temperature_C": 20.03,
+    "nitr\u00f3geno_ppm": 126.5,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 189.2,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 19:00:00",
+    "temperature_C": 20.43,
+    "nitr\u00f3geno_ppm": 126.0,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 188.4,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 20:00:00",
+    "temperature_C": 20.24,
+    "nitr\u00f3geno_ppm": 125.5,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 187.6,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 21:00:00",
+    "temperature_C": 19.58,
+    "nitr\u00f3geno_ppm": 125.0,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 186.8,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 22:00:00",
+    "temperature_C": 19.68,
+    "nitr\u00f3geno_ppm": 124.5,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 186.0,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-19 23:00:00",
+    "temperature_C": 20.51,
+    "nitr\u00f3geno_ppm": 124.0,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 185.2,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 00:00:00",
+    "temperature_C": 19.83,
+    "nitr\u00f3geno_ppm": 123.5,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 184.4,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 01:00:00",
+    "temperature_C": 19.8,
+    "nitr\u00f3geno_ppm": 123.0,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 183.6,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 02:00:00",
+    "temperature_C": 19.52,
+    "nitr\u00f3geno_ppm": 122.5,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 182.8,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 03:00:00",
+    "temperature_C": 20.21,
+    "nitr\u00f3geno_ppm": 122.0,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 182.0,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 04:00:00",
+    "temperature_C": 21.03,
+    "nitr\u00f3geno_ppm": 121.5,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 181.2,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 05:00:00",
+    "temperature_C": 19.47,
+    "nitr\u00f3geno_ppm": 121.0,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 180.4,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 06:00:00",
+    "temperature_C": 20.01,
+    "nitr\u00f3geno_ppm": 120.5,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 179.6,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 07:00:00",
+    "temperature_C": 20.71,
+    "nitr\u00f3geno_ppm": 120.0,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 178.8,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 08:00:00",
+    "temperature_C": 19.96,
+    "nitr\u00f3geno_ppm": 119.5,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 178.0,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 09:00:00",
+    "temperature_C": 20.23,
+    "nitr\u00f3geno_ppm": 119.0,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 177.2,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 10:00:00",
+    "temperature_C": 19.47,
+    "nitr\u00f3geno_ppm": 118.5,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 176.4,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 11:00:00",
+    "temperature_C": 28.3,
+    "nitr\u00f3geno_ppm": 118.0,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 175.6,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 12:00:00",
+    "temperature_C": 27.87,
+    "nitr\u00f3geno_ppm": 117.5,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 174.8,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 13:00:00",
+    "temperature_C": 28.69,
+    "nitr\u00f3geno_ppm": 117.0,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 174.0,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 14:00:00",
+    "temperature_C": 28.83,
+    "nitr\u00f3geno_ppm": 116.5,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 173.2,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 15:00:00",
+    "temperature_C": 21.29,
+    "nitr\u00f3geno_ppm": 116.0,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 172.4,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 16:00:00",
+    "temperature_C": 20.29,
+    "nitr\u00f3geno_ppm": 115.5,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 171.6,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 17:00:00",
+    "temperature_C": 20.16,
+    "nitr\u00f3geno_ppm": 115.0,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 170.8,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 18:00:00",
+    "temperature_C": 20.1,
+    "nitr\u00f3geno_ppm": 114.5,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 170.0,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 19:00:00",
+    "temperature_C": 19.82,
+    "nitr\u00f3geno_ppm": 114.0,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 169.2,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 20:00:00",
+    "temperature_C": 20.17,
+    "nitr\u00f3geno_ppm": 113.5,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 168.4,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 21:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 113.0,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 167.6,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 22:00:00",
+    "temperature_C": 20.08,
+    "nitr\u00f3geno_ppm": 112.5,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 166.8,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-20 23:00:00",
+    "temperature_C": 20.66,
+    "nitr\u00f3geno_ppm": 112.0,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 166.0,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 00:00:00",
+    "temperature_C": 19.5,
+    "nitr\u00f3geno_ppm": 111.5,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 165.2,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 01:00:00",
+    "temperature_C": 20.57,
+    "nitr\u00f3geno_ppm": 111.0,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 164.4,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 02:00:00",
+    "temperature_C": 20.66,
+    "nitr\u00f3geno_ppm": 110.5,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 163.6,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 03:00:00",
+    "temperature_C": 19.94,
+    "nitr\u00f3geno_ppm": 110.0,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 162.8,
+    "CE_mS/cm": 1.59,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 04:00:00",
+    "temperature_C": 18.94,
+    "nitr\u00f3geno_ppm": 109.5,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 162.0,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 05:00:00",
+    "temperature_C": 19.7,
+    "nitr\u00f3geno_ppm": 109.0,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 161.2,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 06:00:00",
+    "temperature_C": 20.65,
+    "nitr\u00f3geno_ppm": 108.5,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 160.4,
+    "CE_mS/cm": 1.57,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 07:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 108.0,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 159.6,
+    "CE_mS/cm": 1.56,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 08:00:00",
+    "temperature_C": 19.5,
+    "nitr\u00f3geno_ppm": 107.5,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 158.8,
+    "CE_mS/cm": 1.55,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 09:00:00",
+    "temperature_C": 19.75,
+    "nitr\u00f3geno_ppm": 107.0,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 158.0,
+    "CE_mS/cm": 1.54,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 10:00:00",
+    "temperature_C": 20.42,
+    "nitr\u00f3geno_ppm": 106.5,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 157.2,
+    "CE_mS/cm": 1.54,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 11:00:00",
+    "temperature_C": 28.38,
+    "nitr\u00f3geno_ppm": 106.0,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 156.4,
+    "CE_mS/cm": 1.53,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 12:00:00",
+    "temperature_C": 27.83,
+    "nitr\u00f3geno_ppm": 105.5,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 155.6,
+    "CE_mS/cm": 1.52,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 13:00:00",
+    "temperature_C": 27.74,
+    "nitr\u00f3geno_ppm": 105.0,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 154.8,
+    "CE_mS/cm": 1.51,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 14:00:00",
+    "temperature_C": 27.73,
+    "nitr\u00f3geno_ppm": 104.5,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 154.0,
+    "CE_mS/cm": 1.5,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 15:00:00",
+    "temperature_C": 19.54,
+    "nitr\u00f3geno_ppm": 104.0,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 153.2,
+    "CE_mS/cm": 1.5,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 16:00:00",
+    "temperature_C": 20.81,
+    "nitr\u00f3geno_ppm": 103.5,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 152.4,
+    "CE_mS/cm": 1.49,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 17:00:00",
+    "temperature_C": 19.84,
+    "nitr\u00f3geno_ppm": 103.0,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 151.6,
+    "CE_mS/cm": 1.48,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 18:00:00",
+    "temperature_C": 20.61,
+    "nitr\u00f3geno_ppm": 102.5,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 150.8,
+    "CE_mS/cm": 1.47,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 19:00:00",
+    "temperature_C": 20.76,
+    "nitr\u00f3geno_ppm": 102.0,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 250.0,
+    "CE_mS/cm": 1.96,
+    "reabastecido": true
+  },
+  {
+    "datetime": "2024-11-21 20:00:00",
+    "temperature_C": 20.5,
+    "nitr\u00f3geno_ppm": 101.5,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 249.2,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 21:00:00",
+    "temperature_C": 19.78,
+    "nitr\u00f3geno_ppm": 101.0,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 248.4,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 22:00:00",
+    "temperature_C": 20.2,
+    "nitr\u00f3geno_ppm": 100.5,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 247.6,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-21 23:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 100.0,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 246.8,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 00:00:00",
+    "temperature_C": 19.55,
+    "nitr\u00f3geno_ppm": 150.0,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 246.0,
+    "CE_mS/cm": 2.18,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 01:00:00",
+    "temperature_C": 20.16,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 245.2,
+    "CE_mS/cm": 2.17,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 02:00:00",
+    "temperature_C": 19.41,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 244.4,
+    "CE_mS/cm": 2.16,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 03:00:00",
+    "temperature_C": 20.59,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 243.6,
+    "CE_mS/cm": 2.15,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 04:00:00",
+    "temperature_C": 19.77,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 242.8,
+    "CE_mS/cm": 2.14,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 05:00:00",
+    "temperature_C": 20.1,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 242.0,
+    "CE_mS/cm": 2.14,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 06:00:00",
+    "temperature_C": 20.14,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 241.2,
+    "CE_mS/cm": 2.13,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 07:00:00",
+    "temperature_C": 19.87,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 240.4,
+    "CE_mS/cm": 2.12,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 08:00:00",
+    "temperature_C": 20.29,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 239.6,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 09:00:00",
+    "temperature_C": 19.76,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 238.8,
+    "CE_mS/cm": 2.1,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 10:00:00",
+    "temperature_C": 20.44,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 238.0,
+    "CE_mS/cm": 2.1,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 11:00:00",
+    "temperature_C": 27.06,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 237.2,
+    "CE_mS/cm": 2.09,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 12:00:00",
+    "temperature_C": 28.09,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 236.4,
+    "CE_mS/cm": 2.08,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 13:00:00",
+    "temperature_C": 29.36,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 235.6,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 14:00:00",
+    "temperature_C": 27.3,
+    "nitr\u00f3geno_ppm": 143.0,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 234.8,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 15:00:00",
+    "temperature_C": 19.66,
+    "nitr\u00f3geno_ppm": 142.5,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 234.0,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 16:00:00",
+    "temperature_C": 20.26,
+    "nitr\u00f3geno_ppm": 142.0,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 233.2,
+    "CE_mS/cm": 2.05,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 17:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 141.5,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 232.4,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 18:00:00",
+    "temperature_C": 20.18,
+    "nitr\u00f3geno_ppm": 141.0,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 231.6,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 19:00:00",
+    "temperature_C": 20.24,
+    "nitr\u00f3geno_ppm": 140.5,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 230.8,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 20:00:00",
+    "temperature_C": 20.32,
+    "nitr\u00f3geno_ppm": 140.0,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 230.0,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 21:00:00",
+    "temperature_C": 20.55,
+    "nitr\u00f3geno_ppm": 139.5,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 229.2,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 22:00:00",
+    "temperature_C": 20.2,
+    "nitr\u00f3geno_ppm": 139.0,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 228.4,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-22 23:00:00",
+    "temperature_C": 19.88,
+    "nitr\u00f3geno_ppm": 138.5,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 227.6,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 00:00:00",
+    "temperature_C": 20.34,
+    "nitr\u00f3geno_ppm": 138.0,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 226.8,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 01:00:00",
+    "temperature_C": 20.95,
+    "nitr\u00f3geno_ppm": 137.5,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 226.0,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 02:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 137.0,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 225.2,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 03:00:00",
+    "temperature_C": 19.51,
+    "nitr\u00f3geno_ppm": 136.5,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 224.4,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 04:00:00",
+    "temperature_C": 20.55,
+    "nitr\u00f3geno_ppm": 136.0,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 223.6,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 05:00:00",
+    "temperature_C": 19.94,
+    "nitr\u00f3geno_ppm": 135.5,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 222.8,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 06:00:00",
+    "temperature_C": 18.91,
+    "nitr\u00f3geno_ppm": 135.0,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 222.0,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 07:00:00",
+    "temperature_C": 20.42,
+    "nitr\u00f3geno_ppm": 134.5,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 221.2,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 08:00:00",
+    "temperature_C": 19.73,
+    "nitr\u00f3geno_ppm": 134.0,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 220.4,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 09:00:00",
+    "temperature_C": 19.95,
+    "nitr\u00f3geno_ppm": 133.5,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 219.6,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 10:00:00",
+    "temperature_C": 20.17,
+    "nitr\u00f3geno_ppm": 133.0,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 218.8,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 11:00:00",
+    "temperature_C": 28.13,
+    "nitr\u00f3geno_ppm": 132.5,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 218.0,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 12:00:00",
+    "temperature_C": 28.5,
+    "nitr\u00f3geno_ppm": 132.0,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 217.2,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 13:00:00",
+    "temperature_C": 27.7,
+    "nitr\u00f3geno_ppm": 131.5,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 216.4,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 14:00:00",
+    "temperature_C": 28.36,
+    "nitr\u00f3geno_ppm": 131.0,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 215.6,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 15:00:00",
+    "temperature_C": 19.87,
+    "nitr\u00f3geno_ppm": 130.5,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 214.8,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 16:00:00",
+    "temperature_C": 20.37,
+    "nitr\u00f3geno_ppm": 130.0,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 214.0,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 17:00:00",
+    "temperature_C": 20.31,
+    "nitr\u00f3geno_ppm": 129.5,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 213.2,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 18:00:00",
+    "temperature_C": 19.53,
+    "nitr\u00f3geno_ppm": 129.0,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 212.4,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 19:00:00",
+    "temperature_C": 20.54,
+    "nitr\u00f3geno_ppm": 128.5,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 211.6,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 20:00:00",
+    "temperature_C": 19.73,
+    "nitr\u00f3geno_ppm": 128.0,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 210.8,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 21:00:00",
+    "temperature_C": 20.4,
+    "nitr\u00f3geno_ppm": 127.5,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 210.0,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 22:00:00",
+    "temperature_C": 20.18,
+    "nitr\u00f3geno_ppm": 127.0,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 209.2,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-23 23:00:00",
+    "temperature_C": 20.92,
+    "nitr\u00f3geno_ppm": 126.5,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 208.4,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 00:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 126.0,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 207.6,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 01:00:00",
+    "temperature_C": 19.83,
+    "nitr\u00f3geno_ppm": 125.5,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 206.8,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 02:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 125.0,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 206.0,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 03:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 124.5,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 205.2,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 04:00:00",
+    "temperature_C": 20.4,
+    "nitr\u00f3geno_ppm": 124.0,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 204.4,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 05:00:00",
+    "temperature_C": 19.19,
+    "nitr\u00f3geno_ppm": 123.5,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 203.6,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 06:00:00",
+    "temperature_C": 19.47,
+    "nitr\u00f3geno_ppm": 123.0,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 202.8,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 07:00:00",
+    "temperature_C": 19.47,
+    "nitr\u00f3geno_ppm": 122.5,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 202.0,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 08:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 122.0,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 201.2,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 09:00:00",
+    "temperature_C": 20.86,
+    "nitr\u00f3geno_ppm": 121.5,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 200.4,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 10:00:00",
+    "temperature_C": 19.95,
+    "nitr\u00f3geno_ppm": 121.0,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 199.6,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 11:00:00",
+    "temperature_C": 27.88,
+    "nitr\u00f3geno_ppm": 120.5,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 198.8,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 12:00:00",
+    "temperature_C": 28.05,
+    "nitr\u00f3geno_ppm": 120.0,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 198.0,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 13:00:00",
+    "temperature_C": 28.81,
+    "nitr\u00f3geno_ppm": 119.5,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 197.2,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 14:00:00",
+    "temperature_C": 27.35,
+    "nitr\u00f3geno_ppm": 119.0,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 196.4,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 15:00:00",
+    "temperature_C": 20.12,
+    "nitr\u00f3geno_ppm": 118.5,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 195.6,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 16:00:00",
+    "temperature_C": 20.49,
+    "nitr\u00f3geno_ppm": 118.0,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 194.8,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 17:00:00",
+    "temperature_C": 20.25,
+    "nitr\u00f3geno_ppm": 117.5,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 194.0,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 18:00:00",
+    "temperature_C": 20.09,
+    "nitr\u00f3geno_ppm": 117.0,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 193.2,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 19:00:00",
+    "temperature_C": 20.5,
+    "nitr\u00f3geno_ppm": 116.5,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 192.4,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 20:00:00",
+    "temperature_C": 18.65,
+    "nitr\u00f3geno_ppm": 116.0,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 191.6,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 21:00:00",
+    "temperature_C": 20.34,
+    "nitr\u00f3geno_ppm": 115.5,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 190.8,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 22:00:00",
+    "temperature_C": 19.67,
+    "nitr\u00f3geno_ppm": 115.0,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 190.0,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-24 23:00:00",
+    "temperature_C": 19.08,
+    "nitr\u00f3geno_ppm": 114.5,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 189.2,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 00:00:00",
+    "temperature_C": 20.26,
+    "nitr\u00f3geno_ppm": 114.0,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 188.4,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 01:00:00",
+    "temperature_C": 20.69,
+    "nitr\u00f3geno_ppm": 113.5,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 187.6,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 02:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 113.0,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 186.8,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 03:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 112.5,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 186.0,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 04:00:00",
+    "temperature_C": 20.81,
+    "nitr\u00f3geno_ppm": 112.0,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 185.2,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 05:00:00",
+    "temperature_C": 20.66,
+    "nitr\u00f3geno_ppm": 111.5,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 184.4,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 06:00:00",
+    "temperature_C": 20.82,
+    "nitr\u00f3geno_ppm": 111.0,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 183.6,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 07:00:00",
+    "temperature_C": 20.37,
+    "nitr\u00f3geno_ppm": 110.5,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 182.8,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 08:00:00",
+    "temperature_C": 20.04,
+    "nitr\u00f3geno_ppm": 110.0,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 182.0,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 09:00:00",
+    "temperature_C": 19.2,
+    "nitr\u00f3geno_ppm": 109.5,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 181.2,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 10:00:00",
+    "temperature_C": 19.88,
+    "nitr\u00f3geno_ppm": 109.0,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 180.4,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 11:00:00",
+    "temperature_C": 27.41,
+    "nitr\u00f3geno_ppm": 108.5,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 179.6,
+    "CE_mS/cm": 1.61,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 12:00:00",
+    "temperature_C": 29.52,
+    "nitr\u00f3geno_ppm": 108.0,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 178.8,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 13:00:00",
+    "temperature_C": 27.88,
+    "nitr\u00f3geno_ppm": 107.5,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 178.0,
+    "CE_mS/cm": 1.6,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 14:00:00",
+    "temperature_C": 28.09,
+    "nitr\u00f3geno_ppm": 107.0,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 177.2,
+    "CE_mS/cm": 1.59,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 15:00:00",
+    "temperature_C": 20.28,
+    "nitr\u00f3geno_ppm": 106.5,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 176.4,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 16:00:00",
+    "temperature_C": 20.02,
+    "nitr\u00f3geno_ppm": 106.0,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 175.6,
+    "CE_mS/cm": 1.57,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 17:00:00",
+    "temperature_C": 20.85,
+    "nitr\u00f3geno_ppm": 105.5,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 174.8,
+    "CE_mS/cm": 1.56,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 18:00:00",
+    "temperature_C": 19.69,
+    "nitr\u00f3geno_ppm": 105.0,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 174.0,
+    "CE_mS/cm": 1.56,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 19:00:00",
+    "temperature_C": 20.1,
+    "nitr\u00f3geno_ppm": 104.5,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 173.2,
+    "CE_mS/cm": 1.55,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 20:00:00",
+    "temperature_C": 19.63,
+    "nitr\u00f3geno_ppm": 104.0,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 172.4,
+    "CE_mS/cm": 1.54,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 21:00:00",
+    "temperature_C": 19.34,
+    "nitr\u00f3geno_ppm": 103.5,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 171.6,
+    "CE_mS/cm": 1.53,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 22:00:00",
+    "temperature_C": 19.69,
+    "nitr\u00f3geno_ppm": 103.0,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 170.8,
+    "CE_mS/cm": 1.52,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-25 23:00:00",
+    "temperature_C": 19.98,
+    "nitr\u00f3geno_ppm": 102.5,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 170.0,
+    "CE_mS/cm": 1.52,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 00:00:00",
+    "temperature_C": 19.79,
+    "nitr\u00f3geno_ppm": 102.0,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 169.2,
+    "CE_mS/cm": 1.51,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 01:00:00",
+    "temperature_C": 19.65,
+    "nitr\u00f3geno_ppm": 101.5,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 168.4,
+    "CE_mS/cm": 1.5,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 02:00:00",
+    "temperature_C": 19.3,
+    "nitr\u00f3geno_ppm": 101.0,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 167.6,
+    "CE_mS/cm": 1.59,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 03:00:00",
+    "temperature_C": 19.96,
+    "nitr\u00f3geno_ppm": 100.5,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 166.8,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 04:00:00",
+    "temperature_C": 19.25,
+    "nitr\u00f3geno_ppm": 100.0,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 166.0,
+    "CE_mS/cm": 1.58,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 05:00:00",
+    "temperature_C": 20.38,
+    "nitr\u00f3geno_ppm": 150.0,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 165.2,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 06:00:00",
+    "temperature_C": 20.04,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 164.4,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 07:00:00",
+    "temperature_C": 19.27,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 163.6,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 08:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 162.8,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 09:00:00",
+    "temperature_C": 19.62,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 162.0,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 10:00:00",
+    "temperature_C": 20.16,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 161.2,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 11:00:00",
+    "temperature_C": 28.94,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 160.4,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 12:00:00",
+    "temperature_C": 26.69,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 159.6,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 13:00:00",
+    "temperature_C": 28.08,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 158.8,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 14:00:00",
+    "temperature_C": 27.89,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 158.0,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 15:00:00",
+    "temperature_C": 20.34,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 157.2,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 16:00:00",
+    "temperature_C": 20.11,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 156.4,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 17:00:00",
+    "temperature_C": 19.62,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 155.6,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 18:00:00",
+    "temperature_C": 19.84,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 154.8,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 19:00:00",
+    "temperature_C": 19.6,
+    "nitr\u00f3geno_ppm": 143.0,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 154.0,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 20:00:00",
+    "temperature_C": 20.54,
+    "nitr\u00f3geno_ppm": 142.5,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 153.2,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 21:00:00",
+    "temperature_C": 20.01,
+    "nitr\u00f3geno_ppm": 142.0,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 152.4,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 22:00:00",
+    "temperature_C": 20.95,
+    "nitr\u00f3geno_ppm": 141.5,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 151.6,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-26 23:00:00",
+    "temperature_C": 19.97,
+    "nitr\u00f3geno_ppm": 141.0,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 150.8,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 00:00:00",
+    "temperature_C": 19.65,
+    "nitr\u00f3geno_ppm": 140.5,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 250.0,
+    "CE_mS/cm": 2.17,
+    "reabastecido": true
+  },
+  {
+    "datetime": "2024-11-27 01:00:00",
+    "temperature_C": 19.24,
+    "nitr\u00f3geno_ppm": 140.0,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 249.2,
+    "CE_mS/cm": 2.16,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 02:00:00",
+    "temperature_C": 19.1,
+    "nitr\u00f3geno_ppm": 139.5,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 248.4,
+    "CE_mS/cm": 2.15,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 03:00:00",
+    "temperature_C": 19.21,
+    "nitr\u00f3geno_ppm": 139.0,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 247.6,
+    "CE_mS/cm": 2.15,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 04:00:00",
+    "temperature_C": 20.13,
+    "nitr\u00f3geno_ppm": 138.5,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 246.8,
+    "CE_mS/cm": 2.14,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 05:00:00",
+    "temperature_C": 20.25,
+    "nitr\u00f3geno_ppm": 138.0,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 246.0,
+    "CE_mS/cm": 2.13,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 06:00:00",
+    "temperature_C": 19.21,
+    "nitr\u00f3geno_ppm": 137.5,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 245.2,
+    "CE_mS/cm": 2.12,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 07:00:00",
+    "temperature_C": 20.45,
+    "nitr\u00f3geno_ppm": 137.0,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 244.4,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 08:00:00",
+    "temperature_C": 19.76,
+    "nitr\u00f3geno_ppm": 136.5,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 243.6,
+    "CE_mS/cm": 2.11,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 09:00:00",
+    "temperature_C": 20.07,
+    "nitr\u00f3geno_ppm": 136.0,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 242.8,
+    "CE_mS/cm": 2.1,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 10:00:00",
+    "temperature_C": 20.81,
+    "nitr\u00f3geno_ppm": 135.5,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 242.0,
+    "CE_mS/cm": 2.09,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 11:00:00",
+    "temperature_C": 28.63,
+    "nitr\u00f3geno_ppm": 135.0,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 241.2,
+    "CE_mS/cm": 2.08,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 12:00:00",
+    "temperature_C": 27.81,
+    "nitr\u00f3geno_ppm": 134.5,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 240.4,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 13:00:00",
+    "temperature_C": 27.38,
+    "nitr\u00f3geno_ppm": 134.0,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 239.6,
+    "CE_mS/cm": 2.07,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 14:00:00",
+    "temperature_C": 26.49,
+    "nitr\u00f3geno_ppm": 133.5,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 238.8,
+    "CE_mS/cm": 2.06,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 15:00:00",
+    "temperature_C": 19.64,
+    "nitr\u00f3geno_ppm": 133.0,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 238.0,
+    "CE_mS/cm": 2.05,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 16:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 132.5,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 237.2,
+    "CE_mS/cm": 2.04,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 17:00:00",
+    "temperature_C": 19.51,
+    "nitr\u00f3geno_ppm": 132.0,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 236.4,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 18:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 131.5,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 235.6,
+    "CE_mS/cm": 2.03,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 19:00:00",
+    "temperature_C": 20.04,
+    "nitr\u00f3geno_ppm": 131.0,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 234.8,
+    "CE_mS/cm": 2.02,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 20:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 130.5,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 234.0,
+    "CE_mS/cm": 2.01,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 21:00:00",
+    "temperature_C": 19.67,
+    "nitr\u00f3geno_ppm": 130.0,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 233.2,
+    "CE_mS/cm": 2.0,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 22:00:00",
+    "temperature_C": 20.08,
+    "nitr\u00f3geno_ppm": 129.5,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 232.4,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-27 23:00:00",
+    "temperature_C": 20.22,
+    "nitr\u00f3geno_ppm": 129.0,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 231.6,
+    "CE_mS/cm": 1.99,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 00:00:00",
+    "temperature_C": 19.45,
+    "nitr\u00f3geno_ppm": 128.5,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 230.8,
+    "CE_mS/cm": 1.98,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 01:00:00",
+    "temperature_C": 20.71,
+    "nitr\u00f3geno_ppm": 128.0,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 230.0,
+    "CE_mS/cm": 1.97,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 02:00:00",
+    "temperature_C": 19.95,
+    "nitr\u00f3geno_ppm": 127.5,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 229.2,
+    "CE_mS/cm": 1.96,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 03:00:00",
+    "temperature_C": 20.01,
+    "nitr\u00f3geno_ppm": 127.0,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 228.4,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 04:00:00",
+    "temperature_C": 20.35,
+    "nitr\u00f3geno_ppm": 126.5,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 227.6,
+    "CE_mS/cm": 1.95,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 05:00:00",
+    "temperature_C": 20.12,
+    "nitr\u00f3geno_ppm": 126.0,
+    "f\u00f3sforo_ppm": 34.7,
+    "potasio_ppm": 226.8,
+    "CE_mS/cm": 1.94,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 06:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 125.5,
+    "f\u00f3sforo_ppm": 34.4,
+    "potasio_ppm": 226.0,
+    "CE_mS/cm": 1.93,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 07:00:00",
+    "temperature_C": 20.14,
+    "nitr\u00f3geno_ppm": 125.0,
+    "f\u00f3sforo_ppm": 34.1,
+    "potasio_ppm": 225.2,
+    "CE_mS/cm": 1.92,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 08:00:00",
+    "temperature_C": 19.69,
+    "nitr\u00f3geno_ppm": 124.5,
+    "f\u00f3sforo_ppm": 33.8,
+    "potasio_ppm": 224.4,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 09:00:00",
+    "temperature_C": 20.18,
+    "nitr\u00f3geno_ppm": 124.0,
+    "f\u00f3sforo_ppm": 33.5,
+    "potasio_ppm": 223.6,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 10:00:00",
+    "temperature_C": 19.43,
+    "nitr\u00f3geno_ppm": 123.5,
+    "f\u00f3sforo_ppm": 33.2,
+    "potasio_ppm": 222.8,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 11:00:00",
+    "temperature_C": 28.08,
+    "nitr\u00f3geno_ppm": 123.0,
+    "f\u00f3sforo_ppm": 32.9,
+    "potasio_ppm": 222.0,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 12:00:00",
+    "temperature_C": 27.98,
+    "nitr\u00f3geno_ppm": 122.5,
+    "f\u00f3sforo_ppm": 32.6,
+    "potasio_ppm": 221.2,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 13:00:00",
+    "temperature_C": 27.85,
+    "nitr\u00f3geno_ppm": 122.0,
+    "f\u00f3sforo_ppm": 32.3,
+    "potasio_ppm": 220.4,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 14:00:00",
+    "temperature_C": 27.91,
+    "nitr\u00f3geno_ppm": 121.5,
+    "f\u00f3sforo_ppm": 32.0,
+    "potasio_ppm": 219.6,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 15:00:00",
+    "temperature_C": 19.06,
+    "nitr\u00f3geno_ppm": 121.0,
+    "f\u00f3sforo_ppm": 31.7,
+    "potasio_ppm": 218.8,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 16:00:00",
+    "temperature_C": 19.73,
+    "nitr\u00f3geno_ppm": 120.5,
+    "f\u00f3sforo_ppm": 31.4,
+    "potasio_ppm": 218.0,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 17:00:00",
+    "temperature_C": 20.05,
+    "nitr\u00f3geno_ppm": 120.0,
+    "f\u00f3sforo_ppm": 31.1,
+    "potasio_ppm": 217.2,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 18:00:00",
+    "temperature_C": 20.08,
+    "nitr\u00f3geno_ppm": 119.5,
+    "f\u00f3sforo_ppm": 30.8,
+    "potasio_ppm": 216.4,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 19:00:00",
+    "temperature_C": 19.49,
+    "nitr\u00f3geno_ppm": 119.0,
+    "f\u00f3sforo_ppm": 30.5,
+    "potasio_ppm": 215.6,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 20:00:00",
+    "temperature_C": 20.63,
+    "nitr\u00f3geno_ppm": 118.5,
+    "f\u00f3sforo_ppm": 30.2,
+    "potasio_ppm": 214.8,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 21:00:00",
+    "temperature_C": 19.57,
+    "nitr\u00f3geno_ppm": 118.0,
+    "f\u00f3sforo_ppm": 50.0,
+    "potasio_ppm": 214.0,
+    "CE_mS/cm": 1.91,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 22:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 117.5,
+    "f\u00f3sforo_ppm": 49.7,
+    "potasio_ppm": 213.2,
+    "CE_mS/cm": 1.9,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-28 23:00:00",
+    "temperature_C": 20.21,
+    "nitr\u00f3geno_ppm": 117.0,
+    "f\u00f3sforo_ppm": 49.4,
+    "potasio_ppm": 212.4,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 00:00:00",
+    "temperature_C": 19.68,
+    "nitr\u00f3geno_ppm": 116.5,
+    "f\u00f3sforo_ppm": 49.1,
+    "potasio_ppm": 211.6,
+    "CE_mS/cm": 1.89,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 01:00:00",
+    "temperature_C": 20.89,
+    "nitr\u00f3geno_ppm": 116.0,
+    "f\u00f3sforo_ppm": 48.8,
+    "potasio_ppm": 210.8,
+    "CE_mS/cm": 1.88,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 02:00:00",
+    "temperature_C": 19.4,
+    "nitr\u00f3geno_ppm": 115.5,
+    "f\u00f3sforo_ppm": 48.5,
+    "potasio_ppm": 210.0,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 03:00:00",
+    "temperature_C": 20.46,
+    "nitr\u00f3geno_ppm": 115.0,
+    "f\u00f3sforo_ppm": 48.2,
+    "potasio_ppm": 209.2,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 04:00:00",
+    "temperature_C": 20.5,
+    "nitr\u00f3geno_ppm": 114.5,
+    "f\u00f3sforo_ppm": 47.9,
+    "potasio_ppm": 208.4,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 05:00:00",
+    "temperature_C": 19.66,
+    "nitr\u00f3geno_ppm": 114.0,
+    "f\u00f3sforo_ppm": 47.6,
+    "potasio_ppm": 207.6,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 06:00:00",
+    "temperature_C": 20.7,
+    "nitr\u00f3geno_ppm": 113.5,
+    "f\u00f3sforo_ppm": 47.3,
+    "potasio_ppm": 206.8,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 07:00:00",
+    "temperature_C": 19.87,
+    "nitr\u00f3geno_ppm": 113.0,
+    "f\u00f3sforo_ppm": 47.0,
+    "potasio_ppm": 206.0,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 08:00:00",
+    "temperature_C": 20.14,
+    "nitr\u00f3geno_ppm": 112.5,
+    "f\u00f3sforo_ppm": 46.7,
+    "potasio_ppm": 205.2,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 09:00:00",
+    "temperature_C": 20.13,
+    "nitr\u00f3geno_ppm": 112.0,
+    "f\u00f3sforo_ppm": 46.4,
+    "potasio_ppm": 204.4,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 10:00:00",
+    "temperature_C": 19.93,
+    "nitr\u00f3geno_ppm": 111.5,
+    "f\u00f3sforo_ppm": 46.1,
+    "potasio_ppm": 203.6,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 11:00:00",
+    "temperature_C": 28.57,
+    "nitr\u00f3geno_ppm": 111.0,
+    "f\u00f3sforo_ppm": 45.8,
+    "potasio_ppm": 202.8,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 12:00:00",
+    "temperature_C": 28.56,
+    "nitr\u00f3geno_ppm": 110.5,
+    "f\u00f3sforo_ppm": 45.5,
+    "potasio_ppm": 202.0,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 13:00:00",
+    "temperature_C": 26.78,
+    "nitr\u00f3geno_ppm": 110.0,
+    "f\u00f3sforo_ppm": 45.2,
+    "potasio_ppm": 201.2,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 14:00:00",
+    "temperature_C": 28.91,
+    "nitr\u00f3geno_ppm": 109.5,
+    "f\u00f3sforo_ppm": 44.9,
+    "potasio_ppm": 200.4,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 15:00:00",
+    "temperature_C": 19.17,
+    "nitr\u00f3geno_ppm": 109.0,
+    "f\u00f3sforo_ppm": 44.6,
+    "potasio_ppm": 199.6,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 16:00:00",
+    "temperature_C": 20.52,
+    "nitr\u00f3geno_ppm": 108.5,
+    "f\u00f3sforo_ppm": 44.3,
+    "potasio_ppm": 198.8,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 17:00:00",
+    "temperature_C": 20.56,
+    "nitr\u00f3geno_ppm": 108.0,
+    "f\u00f3sforo_ppm": 44.0,
+    "potasio_ppm": 198.0,
+    "CE_mS/cm": 1.75,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 18:00:00",
+    "temperature_C": 19.45,
+    "nitr\u00f3geno_ppm": 107.5,
+    "f\u00f3sforo_ppm": 43.7,
+    "potasio_ppm": 197.2,
+    "CE_mS/cm": 1.74,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 19:00:00",
+    "temperature_C": 19.79,
+    "nitr\u00f3geno_ppm": 107.0,
+    "f\u00f3sforo_ppm": 43.4,
+    "potasio_ppm": 196.4,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 20:00:00",
+    "temperature_C": 19.45,
+    "nitr\u00f3geno_ppm": 106.5,
+    "f\u00f3sforo_ppm": 43.1,
+    "potasio_ppm": 195.6,
+    "CE_mS/cm": 1.73,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 21:00:00",
+    "temperature_C": 19.89,
+    "nitr\u00f3geno_ppm": 106.0,
+    "f\u00f3sforo_ppm": 42.8,
+    "potasio_ppm": 194.8,
+    "CE_mS/cm": 1.72,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 22:00:00",
+    "temperature_C": 19.85,
+    "nitr\u00f3geno_ppm": 105.5,
+    "f\u00f3sforo_ppm": 42.5,
+    "potasio_ppm": 194.0,
+    "CE_mS/cm": 1.71,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-29 23:00:00",
+    "temperature_C": 20.39,
+    "nitr\u00f3geno_ppm": 105.0,
+    "f\u00f3sforo_ppm": 42.2,
+    "potasio_ppm": 193.2,
+    "CE_mS/cm": 1.7,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 00:00:00",
+    "temperature_C": 20.66,
+    "nitr\u00f3geno_ppm": 104.5,
+    "f\u00f3sforo_ppm": 41.9,
+    "potasio_ppm": 192.4,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 01:00:00",
+    "temperature_C": 20.7,
+    "nitr\u00f3geno_ppm": 104.0,
+    "f\u00f3sforo_ppm": 41.6,
+    "potasio_ppm": 191.6,
+    "CE_mS/cm": 1.69,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 02:00:00",
+    "temperature_C": 19.72,
+    "nitr\u00f3geno_ppm": 103.5,
+    "f\u00f3sforo_ppm": 41.3,
+    "potasio_ppm": 190.8,
+    "CE_mS/cm": 1.68,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 03:00:00",
+    "temperature_C": 19.9,
+    "nitr\u00f3geno_ppm": 103.0,
+    "f\u00f3sforo_ppm": 41.0,
+    "potasio_ppm": 190.0,
+    "CE_mS/cm": 1.67,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 04:00:00",
+    "temperature_C": 19.16,
+    "nitr\u00f3geno_ppm": 102.5,
+    "f\u00f3sforo_ppm": 40.7,
+    "potasio_ppm": 189.2,
+    "CE_mS/cm": 1.66,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 05:00:00",
+    "temperature_C": 19.6,
+    "nitr\u00f3geno_ppm": 102.0,
+    "f\u00f3sforo_ppm": 40.4,
+    "potasio_ppm": 188.4,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 06:00:00",
+    "temperature_C": 20.48,
+    "nitr\u00f3geno_ppm": 101.5,
+    "f\u00f3sforo_ppm": 40.1,
+    "potasio_ppm": 187.6,
+    "CE_mS/cm": 1.65,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 07:00:00",
+    "temperature_C": 20.81,
+    "nitr\u00f3geno_ppm": 101.0,
+    "f\u00f3sforo_ppm": 39.8,
+    "potasio_ppm": 186.8,
+    "CE_mS/cm": 1.64,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 08:00:00",
+    "temperature_C": 19.38,
+    "nitr\u00f3geno_ppm": 100.5,
+    "f\u00f3sforo_ppm": 39.5,
+    "potasio_ppm": 186.0,
+    "CE_mS/cm": 1.63,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 09:00:00",
+    "temperature_C": 19.7,
+    "nitr\u00f3geno_ppm": 100.0,
+    "f\u00f3sforo_ppm": 39.2,
+    "potasio_ppm": 185.2,
+    "CE_mS/cm": 1.62,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 10:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 150.0,
+    "f\u00f3sforo_ppm": 38.9,
+    "potasio_ppm": 184.4,
+    "CE_mS/cm": 1.87,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 11:00:00",
+    "temperature_C": 28.2,
+    "nitr\u00f3geno_ppm": 149.5,
+    "f\u00f3sforo_ppm": 38.6,
+    "potasio_ppm": 183.6,
+    "CE_mS/cm": 1.86,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 12:00:00",
+    "temperature_C": 27.43,
+    "nitr\u00f3geno_ppm": 149.0,
+    "f\u00f3sforo_ppm": 38.3,
+    "potasio_ppm": 182.8,
+    "CE_mS/cm": 1.85,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 13:00:00",
+    "temperature_C": 28.3,
+    "nitr\u00f3geno_ppm": 148.5,
+    "f\u00f3sforo_ppm": 38.0,
+    "potasio_ppm": 182.0,
+    "CE_mS/cm": 1.84,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 14:00:00",
+    "temperature_C": 27.67,
+    "nitr\u00f3geno_ppm": 148.0,
+    "f\u00f3sforo_ppm": 37.7,
+    "potasio_ppm": 181.2,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 15:00:00",
+    "temperature_C": 19.99,
+    "nitr\u00f3geno_ppm": 147.5,
+    "f\u00f3sforo_ppm": 37.4,
+    "potasio_ppm": 180.4,
+    "CE_mS/cm": 1.83,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 16:00:00",
+    "temperature_C": 20.27,
+    "nitr\u00f3geno_ppm": 147.0,
+    "f\u00f3sforo_ppm": 37.1,
+    "potasio_ppm": 179.6,
+    "CE_mS/cm": 1.82,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 17:00:00",
+    "temperature_C": 20.0,
+    "nitr\u00f3geno_ppm": 146.5,
+    "f\u00f3sforo_ppm": 36.8,
+    "potasio_ppm": 178.8,
+    "CE_mS/cm": 1.81,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 18:00:00",
+    "temperature_C": 19.78,
+    "nitr\u00f3geno_ppm": 146.0,
+    "f\u00f3sforo_ppm": 36.5,
+    "potasio_ppm": 178.0,
+    "CE_mS/cm": 1.8,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 19:00:00",
+    "temperature_C": 19.95,
+    "nitr\u00f3geno_ppm": 145.5,
+    "f\u00f3sforo_ppm": 36.2,
+    "potasio_ppm": 177.2,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 20:00:00",
+    "temperature_C": 19.96,
+    "nitr\u00f3geno_ppm": 145.0,
+    "f\u00f3sforo_ppm": 35.9,
+    "potasio_ppm": 176.4,
+    "CE_mS/cm": 1.79,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 21:00:00",
+    "temperature_C": 19.81,
+    "nitr\u00f3geno_ppm": 144.5,
+    "f\u00f3sforo_ppm": 35.6,
+    "potasio_ppm": 175.6,
+    "CE_mS/cm": 1.78,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 22:00:00",
+    "temperature_C": 19.87,
+    "nitr\u00f3geno_ppm": 144.0,
+    "f\u00f3sforo_ppm": 35.3,
+    "potasio_ppm": 174.8,
+    "CE_mS/cm": 1.77,
+    "reabastecido": false
+  },
+  {
+    "datetime": "2024-11-30 23:00:00",
+    "temperature_C": 20.8,
+    "nitr\u00f3geno_ppm": 143.5,
+    "f\u00f3sforo_ppm": 35.0,
+    "potasio_ppm": 174.0,
+    "CE_mS/cm": 1.76,
+    "reabastecido": false
+  }
+]
