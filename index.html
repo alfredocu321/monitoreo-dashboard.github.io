@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Hidropónico - Cultivo de Fresas</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            color: white;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .parameter-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 25px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .parameter-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .parameter-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .parameter-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #374151;
+        }
+
+        .status-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        .status-optimal {
+            background-color: #10b981;
+            box-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+        }
+
+        .status-warning {
+            background-color: #f59e0b;
+            box-shadow: 0 0 10px rgba(245, 158, 11, 0.5);
+        }
+
+        .status-danger {
+            background-color: #ef4444;
+            box-shadow: 0 0 10px rgba(239, 68, 68, 0.5);
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+
+        .parameter-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #1f2937;
+            margin-bottom: 15px;
+        }
+
+        .progress-container {
+            background-color: #e5e7eb;
+            border-radius: 10px;
+            height: 8px;
+            margin-bottom: 15px;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            border-radius: 10px;
+            transition: width 0.5s ease;
+        }
+
+        .progress-optimal {
+            background: linear-gradient(90deg, #10b981, #34d399);
+        }
+
+        .progress-warning {
+            background: linear-gradient(90deg, #f59e0b, #fbbf24);
+        }
+
+        .progress-danger {
+            background: linear-gradient(90deg, #ef4444, #f87171);
+        }
+
+        .parameter-range {
+            font-size: 0.9rem;
+            color: #6b7280;
+        }
+
+        .chart-container {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            margin-bottom: 30px;
+        }
+
+        .chart-title {
+            font-size: 1.4rem;
+            font-weight: bold;
+            color: #374151;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 400px;
+        }
+
+        .alert {
+            background: rgba(59, 130, 246, 0.1);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .alert-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #1e40af;
+            margin-bottom: 8px;
+        }
+
+        .alert-description {
+            color: #1e40af;
+            line-height: 1.5;
+        }
+
+        .last-update {
+            text-align: center;
+            color: rgba(255, 255, 255, 0.8);
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.2rem;
+            margin: 50px 0;
+        }
+
+        .error {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            color: #dc2626;
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        @media (max-width: 768px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .parameter-value {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🍓 Dashboard Hidropónico</h1>
+            <p>Monitoreo en Tiempo Real - Cultivo de Fresas</p>
+        </div>
+
+        <div id="loading" class="loading">
+            Cargando datos del sistema...
+        </div>
+
+        <div id="error" class="error" style="display: none;">
+            Error al cargar los datos. Verifique el archivo JSON.
+        </div>
+
+        <div id="dashboard" style="display: none;">
+            <div class="dashboard-grid" id="parametersGrid">
+                <!-- Los parámetros se generarán dinámicamente -->
+            </div>
+
+            <div class="chart-container">
+                <h2 class="chart-title">Histórico de Nutrientes y Conductividad Eléctrica</h2>
+                <div class="chart-wrapper">
+                    <canvas id="nutrientsChart"></canvas>
+                </div>
+            </div>
+
+            <div class="alert">
+                <div class="alert-title">📌 Recomendación Técnica</div>
+                <div class="alert-description">
+                    Supervise diariamente los niveles de CE y temperatura. Ajuste la solución nutritiva si se detectan desequilibrios frecuentes. Mantenga el pH entre 5.8-6.5 para una absorción óptima de nutrientes.
+                </div>
+            </div>
+
+            <div class="last-update" id="lastUpdate">
+                <!-- Se actualizará dinámicamente -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configuración de parámetros con sus rangos óptimos
+        const parametersConfig = [
+            {
+                title: "Nitrógeno (N)",
+                key: "nitrógeno_ppm",
+                unit: "ppm",
+                optimalRange: [100, 150],
+                warningRange: [90, 160],
+                icon: "🌿"
+            },
+            {
+                title: "Fósforo (P)",
+                key: "fósforo_ppm",
+                unit: "ppm",
+                optimalRange: [30, 50],
+                warningRange: [25, 55],
+                icon: "💧"
+            },
+            {
+                title: "Potasio (K)",
+                key: "potasio_ppm",
+                unit: "ppm",
+                optimalRange: [150, 250],
+                warningRange: [130, 270],
+                icon: "⚡"
+            },
+            {
+                title: "pH",
+                key: "pH",
+                unit: "",
+                optimalRange: [5.8, 6.5],
+                warningRange: [5.5, 6.7],
+                icon: "🧪",
+                defaultValue: 6.2
+            },
+            {
+                title: "Conductividad Eléctrica",
+                key: "CE_mS/cm",
+                unit: "mS/cm",
+                optimalRange: [1.4, 2.0],
+                warningRange: [1.2, 2.2],
+                icon: "🔌"
+            },
+            {
+                title: "Temperatura",
+                key: "temperature_C",
+                unit: "°C",
+                optimalRange: [15, 27],
+                warningRange: [12, 30],
+                icon: "🌡️"
+            }
+        ];
+
+        let historicalData = [];
+        let nutrientsChart = null;
+
+        // Función para determinar el estado del parámetro
+        function getParameterStatus(value, optimalRange, warningRange) {
+            if (value >= optimalRange[0] && value <= optimalRange[1]) {
+                return 'optimal';
+            } else if (value >= warningRange[0] && value <= warningRange[1]) {
+                return 'warning';
+            } else {
+                return 'danger';
+            }
+        }
+
+        // Función para crear una tarjeta de parámetro
+        function createParameterCard(config, value) {
+            const status = getParameterStatus(value, config.optimalRange, config.warningRange);
+            const percentage = Math.min((value / config.optimalRange[1]) * 100, 100);
+            
+            return `
+                <div class="parameter-card">
+                    <div class="parameter-header">
+                        <div class="parameter-title">${config.icon} ${config.title}</div>
+                        <div class="status-indicator status-${status}"></div>
+                    </div>
+                    <div class="parameter-value">
+                        ${value.toFixed(1)} ${config.unit}
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-bar progress-${status}" style="width: ${percentage}%"></div>
+                    </div>
+                    <div class="parameter-range">
+                        Óptimo: ${config.optimalRange[0]} – ${config.optimalRange[1]} ${config.unit}
+                    </div>
+                </div>
+            `;
+        }
+
+        // Función para actualizar el dashboard
+        function updateDashboard(data) {
+            const latest = data[data.length - 1] || {};
+            const parametersGrid = document.getElementById('parametersGrid');
+            
+            parametersGrid.innerHTML = '';
+            
+            parametersConfig.forEach(config => {
+                const value = latest[config.key] || config.defaultValue || 0;
+                parametersGrid.innerHTML += createParameterCard(config, value);
+            });
+
+            // Actualizar información de última actualización
+            if (latest.datetime) {
+                const lastUpdate = document.getElementById('lastUpdate');
+                const date = new Date(latest.datetime);
+                lastUpdate.textContent = `Última actualización: ${date.toLocaleString('es-ES')}`;
+            }
+        }
+
+        // Función para crear el gráfico
+        function createChart(data) {
+            const ctx = document.getElementById('nutrientsChart').getContext('2d');
+            
+            // Tomar los últimos 50 puntos para mejor visualización
+            const chartData = data.slice(-50);
+            
+            if (nutrientsChart) {
+                nutrientsChart.destroy();
+            }
+            
+            nutrientsChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: chartData.map(item => {
+                        const date = new Date(item.datetime);
+                        return date.toLocaleDateString('es-ES') + ' ' + date.toLocaleTimeString('es-ES', {hour: '2-digit', minute: '2-digit'});
+                    }),
+                    datasets: [
+                        {
+                            label: 'Nitrógeno (ppm)',
+                            data: chartData.map(item => item.nitrógeno_ppm),
+                            borderColor: '#3b82f6',
+                            backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                            tension: 0.4,
+                            fill: false
+                        },
+                        {
+                            label: 'Fósforo (ppm)',
+                            data: chartData.map(item => item.fósforo_ppm),
+                            borderColor: '#10b981',
+                            backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                            tension: 0.4,
+                            fill: false
+                        },
+                        {
+                            label: 'Potasio (ppm)',
+                            data: chartData.map(item => item.potasio_ppm),
+                            borderColor: '#f59e0b',
+                            backgroundColor: 'rgba(245, 158, 11, 0.1)',
+                            tension: 0.4,
+                            fill: false
+                        },
+                        {
+                            label: 'CE (mS/cm)',
+                            data: chartData.map(item => item['CE_mS/cm']),
+                            borderColor: '#ef4444',
+                            backgroundColor: 'rgba(239, 68, 68, 0.1)',
+                            tension: 0.4,
+                            fill: false,
+                            yAxisID: 'y1'
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        tooltip: {
+                            mode: 'index',
+                            intersect: false,
+                        }
+                    },
+                    scales: {
+                        x: {
+                            display: true,
+                            title: {
+                                display: true,
+                                text: 'Tiempo'
+                            },
+                            ticks: {
+                                maxTicksLimit: 8
+                            }
+                        },
+                        y: {
+                            type: 'linear',
+                            display: true,
+                            position: 'left',
+                            title: {
+                                display: true,
+                                text: 'Nutrientes (ppm)'
+                            }
+                        },
+                        y1: {
+                            type: 'linear',
+                            display: true,
+                            position: 'right',
+                            title: {
+                                display: true,
+                                text: 'CE (mS/cm)'
+                            },
+                            grid: {
+                                drawOnChartArea: false,
+                            },
+                        }
+                    },
+                    interaction: {
+                        mode: 'nearest',
+                        axis: 'x',
+                        intersect: false
+                    }
+                }
+            });
+        }
+
+        // Función para cargar datos (simulación)
+        function loadData() {
+            // Simulación de datos - reemplaza esta función para cargar desde tu archivo JSON
+            const sampleData = [
+                {
+                    "datetime": "2025-06-23 10:00:00",
+                    "temperature_C": 22.5,
+                    "nitrógeno_ppm": 145.2,
+                    "fósforo_ppm": 42.1,
+                    "potasio_ppm": 198.7,
+                    "CE_mS/cm": 1.85,
+                    "reabastecido": false
+                },
+                {
+                    "datetime": "2025-06-23 11:00:00",
+                    "temperature_C": 23.1,
+                    "nitrógeno_ppm": 142.8,
+                    "fósforo_ppm": 41.5,
+                    "potasio_ppm": 201.3,
+                    "CE_mS/cm": 1.92,
+                    "reabastecido": false
+                },
+                {
+                    "datetime": "2025-06-23 12:00:00",
+                    "temperature_C": 24.2,
+                    "nitrógeno_ppm": 138.9,
+                    "fósforo_ppm": 40.8,
+                    "potasio_ppm": 205.1,
+                    "CE_mS/cm": 1.78,
+                    "reabastecido": true
+                }
+            ];
+
+
+            fetch('historico_nutrientes_ce.json')
+                .then(response => response.json())
+                .then(data => {
+                    historicalData = data;
+                    updateDashboard(data);
+                    createChart(data);
+                    
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('dashboard').style.display = 'block';
+                })
+                .catch(error => {
+                    console.error('Error loading data:', error);
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('error').style.display = 'block';
+                });
+
+
+        }
+
+        // Cargar datos al iniciar
+        document.addEventListener('DOMContentLoaded', function() {
+            loadData();
+            
+            // Actualizar datos cada 5 minutos (opcional)
+            setInterval(loadData, 300000);
+        });
+    </script>
+</body>
+</html>
